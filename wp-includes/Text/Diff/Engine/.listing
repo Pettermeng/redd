@@ -1,0 +1,6 @@
+drwxr-xr-x    2 camredd    camredd          4096 Nov 17  2019 .
+drwxr-xr-x    4 camredd    camredd          4096 Nov 17  2019 ..
+-rw-r--r--    1 camredd    camredd         15840 Nov 17  2019 native.php
+-rw-r--r--    1 camredd    camredd          5170 Nov 17  2019 shell.php
+-rw-r--r--    1 camredd    camredd          8354 Nov 17  2019 string.php
+-rw-r--r--    1 camredd    camredd          2210 Nov 17  2019 xdiff.php

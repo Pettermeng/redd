@@ -1,0 +1,12 @@
+drwxr-xr-x    2 camredd    camredd          4096 Mar 14  2018 .
+drwxr-xr-x    6 camredd    camredd          4096 Mar 14  2018 ..
+-rw-r--r--    1 camredd    camredd           534 May 17  2018 adminimize.js
+-rw-r--r--    1 camredd    camredd           295 May 17  2018 adminimize.min.js
+-rw-r--r--    1 camredd    camredd           123 May 17  2018 remove_footer.js
+-rw-r--r--    1 camredd    camredd            88 May 17  2018 remove_footer.min.js
+-rw-r--r--    1 camredd    camredd            94 May 17  2018 remove_header.js
+-rw-r--r--    1 camredd    camredd            63 May 17  2018 remove_header.min.js
+-rw-r--r--    1 camredd    camredd          1699 May 17  2018 tb_window.js
+-rw-r--r--    1 camredd    camredd          1239 May 17  2018 tb_window.min.js
+-rw-r--r--    1 camredd    camredd           347 May 17  2018 timestamp.js
+-rw-r--r--    1 camredd    camredd           276 May 17  2018 timestamp.min.js

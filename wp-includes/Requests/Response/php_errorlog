@@ -1,0 +1,1 @@
+[16-Jul-2020 22:10:29 CST6CDT] PHP Fatal error:  Class 'Requests_Utility_CaseInsensitiveDictionary' not found in /home/camredd/public_html/wp-includes/Requests/Response/Headers.php on line 13

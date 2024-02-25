@@ -1,0 +1,8 @@
+drwxr-xr-x    3 camredd    camredd          4096 Oct 10  2017 .
+drwxr-xr-x    7 camredd    camredd          4096 Oct 10  2017 ..
+drwxr-xr-x    3 camredd    camredd          4096 Oct 10  2017 extensions
+-rw-r--r--    1 camredd    camredd             0 May 17  2018 index.php
+-rw-r--r--    1 camredd    camredd            21 May 17  2018 jquery.themepunch.enablelog.js
+-rw-r--r--    1 camredd    camredd         64902 May 17  2018 jquery.themepunch.revolution.min.js
+-rw-r--r--    1 camredd    camredd        110708 May 17  2018 jquery.themepunch.tools.min.js
+-rw-r--r--    1 camredd    camredd         51907 May 17  2018 tp-color-picker.min.js

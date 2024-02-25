@@ -1,0 +1,8 @@
+drwxr-xr-x    3 camredd    camredd          4096 Nov 17  2019 .
+drwxr-xr-x   11 camredd    camredd          4096 Nov 17  2019 ..
+-rw-r--r--    1 camredd    camredd         12657 Nov 17  2019 handlers.js
+-rw-r--r--    1 camredd    camredd          8867 Nov 17  2019 handlers.min.js
+-rw-r--r--    1 camredd    camredd          1540 Nov 17  2019 license.txt
+drwxr-xr-x    2 camredd    camredd          4096 Nov 17  2019 plugins
+-rw-r--r--    1 camredd    camredd         37690 Nov 17  2019 swfupload.js
+-rw-r--r--    1 camredd    camredd         13133 Nov 17  2019 swfupload.swf

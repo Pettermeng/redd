@@ -1,0 +1,16 @@
+drwxr-xr-x    4 camredd    camredd          4096 Oct 10  2017 .
+drwxr-xr-x    8 camredd    camredd          4096 Oct 10  2017 ..
+drwxr-xr-x    4 camredd    camredd          4096 Oct 10  2017 css
+-rw-r--r--    1 camredd    camredd           823 May 17  2018 i18n-interface-admin.php
+drwxr-xr-x    2 camredd    camredd          4096 Oct 10  2017 js
+-rw-r--r--    1 camredd    camredd         44205 May 17  2018 qtx_activation_hook.php
+-rw-r--r--    1 camredd    camredd         34630 May 17  2018 qtx_admin.php
+-rw-r--r--    1 camredd    camredd           829 May 17  2018 qtx_admin_class_translator.php
+-rw-r--r--    1 camredd    camredd          2854 May 17  2018 qtx_admin_options.php
+-rw-r--r--    1 camredd    camredd         30501 May 17  2018 qtx_admin_options_update.php
+-rw-r--r--    1 camredd    camredd         32851 May 17  2018 qtx_admin_utils.php
+-rw-r--r--    1 camredd    camredd         59824 May 17  2018 qtx_configuration.php
+-rw-r--r--    1 camredd    camredd         15138 May 17  2018 qtx_import_export.php
+-rw-r--r--    1 camredd    camredd          3940 May 17  2018 qtx_languages.php
+-rw-r--r--    1 camredd    camredd          2356 May 17  2018 qtx_update_gettext_db.php
+-rw-r--r--    1 camredd    camredd          1748 May 17  2018 qtx_user_options.php

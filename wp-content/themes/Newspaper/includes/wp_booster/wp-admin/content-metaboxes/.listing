@@ -1,0 +1,9 @@
+drwxr-xr-x    2 camredd    camredd          4096 Oct 10  2017 .
+drwxr-xr-x    9 camredd    camredd          4096 Oct 10  2017 ..
+-rw-r--r--    1 camredd    camredd          6040 Oct 10  2017 td_set_page.php
+-rw-r--r--    1 camredd    camredd         10482 Oct 10  2017 td_set_page_with_loop.php
+-rw-r--r--    1 camredd    camredd         22884 Oct 10  2017 td_set_post_settings.php
+-rw-r--r--    1 camredd    camredd          2190 Oct 10  2017 td_set_post_settings_cpt.php
+-rw-r--r--    1 camredd    camredd          3495 Oct 10  2017 td_set_post_settings_woo.php
+-rw-r--r--    1 camredd    camredd           509 Oct 10  2017 td_set_video_meta.php
+-rw-r--r--    1 camredd    camredd          3942 Oct 10  2017 td_templates_settings.php

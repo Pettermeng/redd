@@ -1,0 +1,17 @@
+drwxr-xr-x   14 camredd    camredd          4096 Oct 10  2017 .
+drwxr-xr-x   12 camredd    camredd          4096 Nov 25  2019 ..
+drwxr-xr-x    2 camredd    camredd          4096 Oct 10  2017 block_templates
+drwxr-xr-x    2 camredd    camredd          4096 Oct 10  2017 category_templates
+drwxr-xr-x    2 camredd    camredd          4096 Oct 10  2017 category_top_posts_styles
+drwxr-xr-x   42 camredd    camredd          4096 Oct 10  2017 demos
+drwxr-xr-x    6 camredd    camredd          4096 Oct 10  2017 less_files
+drwxr-xr-x    2 camredd    camredd          4096 Oct 10  2017 modules
+drwxr-xr-x    3 camredd    camredd          4096 Oct 10  2017 panel
+drwxr-xr-x    2 camredd    camredd          4096 Oct 10  2017 plugins
+drwxr-xr-x    2 camredd    camredd          4096 Oct 10  2017 shortcodes
+drwxr-xr-x    2 camredd    camredd          4096 Oct 10  2017 smart_lists
+-rw-r--r--    1 camredd    camredd        365031 Oct 10  2017 td_config.php
+-rw-r--r--    1 camredd    camredd         74845 Oct 10  2017 td_css_generator.php
+-rw-r--r--    1 camredd    camredd         41729 Oct 10  2017 td_templates_builder.php
+drwxr-xr-x    2 camredd    camredd          4096 Oct 10  2017 widgets
+drwxr-xr-x    4 camredd    camredd          4096 Oct 10  2017 wp_booster

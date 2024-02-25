@@ -1,0 +1,21 @@
+image: node:latest
+
+stages:
+  - deploy
+
+before_script:
+  - 'which ssh-agent || ( apt-get update -y && apt-get install openssh-client -y )'
+  - eval $(ssh-agent -s)
+  - echo "$S22_SSH_PRIVATE_KEY" | tr -d '\r' | ssh-add - > /dev/null
+  - mkdir -p ~/.ssh
+  - chmod 700 ~/.ssh
+  - '[[ -f /.dockerenv ]] && echo -e "Host *\n\tStrictHostKeyChecking no\n\n" > ~/.ssh/config'
+
+deploy:
+  stage: deploy
+  script:
+    - echo "Run deployment..."
+    - ssh $S22_SSH_USER@$S22_LOCAL_HOST_IP "cd $PROJECT_PATH && git pull origin main && git status && exit"
+  only:
+    - main
+

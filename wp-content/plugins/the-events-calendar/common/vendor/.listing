@@ -1,0 +1,12 @@
+drwxr-xr-x   10 camredd    camredd          4096 Oct 10  2017 .
+drwxr-xr-x    5 camredd    camredd          4096 Oct 10  2017 ..
+-rw-r--r--    1 camredd    camredd           178 May 17  2018 autoload.php
+-rw-r--r--    1 camredd    camredd           208 May 17  2018 autoload_52.php
+drwxr-xr-x    2 camredd    camredd          4096 Oct 10  2017 clipboard
+drwxr-xr-x    2 camredd    camredd          4096 Oct 10  2017 composer
+drwxr-xr-x    4 camredd    camredd          4096 Oct 10  2017 datatables
+drwxr-xr-x    3 camredd    camredd          4096 Oct 10  2017 jquery
+drwxr-xr-x    3 camredd    camredd          4096 Oct 10  2017 jquery-tribe-timepicker
+drwxr-xr-x    3 camredd    camredd          4096 Oct 10  2017 lucatume
+drwxr-xr-x    2 camredd    camredd          4096 Oct 10  2017 momentjs
+drwxr-xr-x    2 camredd    camredd          4096 Oct 10  2017 select2

@@ -1,0 +1,13 @@
+drwxr-xr-x    8 camredd    camredd          4096 Oct 10  2017 .
+drwxr-xr-x   43 camredd    camredd          4096 Apr 23  2018 ..
+drwxr-xr-x    2 camredd    camredd          4096 Oct 10  2017 Licensing
+drwxr-xr-x    4 camredd    camredd          4096 Oct 10  2017 bxslider
+drwxr-xr-x    7 camredd    camredd          4096 Oct 10  2017 css
+drwxr-xr-x    3 camredd    camredd          4096 Oct 10  2017 documentation
+drwxr-xr-x    2 camredd    camredd          4096 Oct 10  2017 images
+drwxr-xr-x    3 camredd    camredd          4096 Oct 10  2017 js
+-rw-r--r--    1 camredd    camredd         77544 May 17  2018 lshowcase.php
+-rw-r--r--    1 camredd    camredd         10975 May 17  2018 ordering-code.php
+-rw-r--r--    1 camredd    camredd         36349 May 17  2018 shortcode-generator.php
+-rw-r--r--    1 camredd    camredd         11628 May 17  2018 styles.css
+-rw-r--r--    1 camredd    camredd         12337 May 17  2018 widget-code.php

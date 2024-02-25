@@ -1,0 +1,13 @@
+drwxr-xr-x    2 camredd    camredd          4096 Nov 17  2019 .
+drwxr-xr-x    4 camredd    camredd          4096 Jan  9  2020 ..
+-rw-r--r--    1 camredd    camredd         23614 Nov 17  2019 class-wp-rest-attachments-controller.php
+-rw-r--r--    1 camredd    camredd         54035 Nov 17  2019 class-wp-rest-comments-controller.php
+-rw-r--r--    1 camredd    camredd         18058 Nov 17  2019 class-wp-rest-controller.php
+-rw-r--r--    1 camredd    camredd          9297 Nov 17  2019 class-wp-rest-post-statuses-controller.php
+-rw-r--r--    1 camredd    camredd          9039 Nov 17  2019 class-wp-rest-post-types-controller.php
+-rw-r--r--    1 camredd    camredd         72622 Nov 17  2019 class-wp-rest-posts-controller.php
+-rw-r--r--    1 camredd    camredd         17275 Nov 17  2019 class-wp-rest-revisions-controller.php
+-rw-r--r--    1 camredd    camredd          9338 Nov 17  2019 class-wp-rest-settings-controller.php
+-rw-r--r--    1 camredd    camredd         10103 Nov 17  2019 class-wp-rest-taxonomies-controller.php
+-rw-r--r--    1 camredd    camredd         30496 Nov 17  2019 class-wp-rest-terms-controller.php
+-rw-r--r--    1 camredd    camredd         43591 Nov 17  2019 class-wp-rest-users-controller.php

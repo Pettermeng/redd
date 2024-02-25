@@ -1,0 +1,12 @@
+drwxr-xr-x    5 camredd    camredd          4096 Oct 10  2017 .
+drwxr-xr-x   43 camredd    camredd          4096 Apr 23  2018 ..
+-rw-r--r--    1 camredd    camredd          2310 May 17  2018 .stylelintrc
+drwxr-xr-x    6 camredd    camredd          4096 Oct 10  2017 assets
+-rw-r--r--    1 camredd    camredd         10418 May 17  2018 composer.lock
+drwxr-xr-x    5 camredd    camredd          4096 Oct 10  2017 includes
+drwxr-xr-x    2 camredd    camredd          4096 Oct 10  2017 languages
+-rw-r--r--    1 camredd    camredd         37000 May 17  2018 license.txt
+-rw-r--r--    1 camredd    camredd         14267 May 17  2018 phpcs.ruleset.xml
+-rw-r--r--    1 camredd    camredd          4226 May 17  2018 readme.txt
+-rw-r--r--    1 camredd    camredd          5833 May 17  2018 social-icons.php
+-rw-r--r--    1 camredd    camredd           823 May 17  2018 uninstall.php

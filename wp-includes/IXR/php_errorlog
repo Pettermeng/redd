@@ -1,0 +1,2 @@
+[13-Jun-2020 19:57:55 CST6CDT] PHP Fatal error:  Class 'IXR_Client' not found in /home/camredd/public_html/wp-includes/IXR/class-IXR-clientmulticall.php on line 9
+[14-Jun-2020 02:54:27 CST6CDT] PHP Fatal error:  Class 'IXR_Server' not found in /home/camredd/public_html/wp-includes/IXR/class-IXR-introspectionserver.php on line 10

@@ -1,0 +1,7 @@
+drwxr-xr-x    2 camredd    camredd          4096 Oct 10  2017 .
+drwxr-xr-x    5 camredd    camredd          4096 Oct 10  2017 ..
+-rw-r--r--    1 camredd    camredd          3983 May 17  2018 event.php
+-rw-r--r--    1 camredd    camredd          5717 May 17  2018 linked-posts.php
+-rw-r--r--    1 camredd    camredd          2349 May 17  2018 organizer.php
+-rw-r--r--    1 camredd    camredd           963 May 17  2018 rest-v1.php
+-rw-r--r--    1 camredd    camredd          2443 May 17  2018 venue.php

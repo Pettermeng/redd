@@ -1,0 +1,15 @@
+drwxr-xr-x    2 camredd    camredd          4096 Oct 10  2017 .
+drwxr-xr-x   11 camredd    camredd          4096 Oct 10  2017 ..
+-rw-r--r--    1 camredd    camredd         14433 May 17  2018 actions.php
+-rw-r--r--    1 camredd    camredd          5310 May 17  2018 cache.php
+-rw-r--r--    1 camredd    camredd         14950 May 17  2018 capabilities.php
+-rw-r--r--    1 camredd    camredd          1643 May 17  2018 extend.php
+-rw-r--r--    1 camredd    camredd         14605 May 17  2018 filters.php
+-rw-r--r--    1 camredd    camredd         13914 May 17  2018 functions.php
+-rw-r--r--    1 camredd    camredd            63 May 17  2018 index.php
+-rw-r--r--    1 camredd    camredd         21060 May 17  2018 options.php
+-rw-r--r--    1 camredd    camredd         11493 May 17  2018 sub-actions.php
+-rw-r--r--    1 camredd    camredd         22293 May 17  2018 template-functions.php
+-rw-r--r--    1 camredd    camredd         16092 May 17  2018 template-loader.php
+-rw-r--r--    1 camredd    camredd         30741 May 17  2018 theme-compat.php
+-rw-r--r--    1 camredd    camredd          9900 May 17  2018 update.php

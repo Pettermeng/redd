@@ -1,0 +1,9 @@
+drwxr-xr-x    5 camredd    camredd          4096 Oct 10  2017 .
+drwxr-xr-x    5 camredd    camredd          4096 Oct 10  2017 ..
+-rw-r--r--    1 camredd    camredd        134371 May 17  2018 class-tgm-plugin-activation.php
+-rw-r--r--    1 camredd    camredd         71036 May 17  2018 functions.php
+-rw-r--r--    1 camredd    camredd            32 May 17  2018 index.php
+drwxr-xr-x    2 camredd    camredd          4096 Oct 10  2017 plugin-settings
+-rw-r--r--    1 camredd    camredd         16478 May 17  2018 query-class.php
+drwxr-xr-x    3 camredd    camredd          4096 Oct 10  2017 reg-shortcode
+drwxr-xr-x    2 camredd    camredd          4096 Oct 10  2017 reg-vc

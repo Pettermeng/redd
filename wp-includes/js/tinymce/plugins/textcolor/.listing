@@ -1,0 +1,4 @@
+drwxr-xr-x    2 camredd    camredd          4096 Nov 17  2019 .
+drwxr-xr-x   23 camredd    camredd          4096 Nov 17  2019 ..
+-rw-r--r--    1 camredd    camredd         13127 Nov 17  2019 plugin.js
+-rw-r--r--    1 camredd    camredd          5168 Nov 17  2019 plugin.min.js

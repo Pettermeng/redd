@@ -1,0 +1,12 @@
+drwxr-xr-x    7 camredd    camredd          4096 Nov 17  2019 .
+drwxr-xr-x   11 camredd    camredd          4096 Nov 17  2019 ..
+drwxr-xr-x    2 camredd    camredd          4096 Nov 17  2019 langs
+-rw-r--r--    1 camredd    camredd         26441 Nov 17  2019 license.txt
+drwxr-xr-x   23 camredd    camredd          4096 Nov 17  2019 plugins
+drwxr-xr-x    4 camredd    camredd          4096 Nov 17  2019 skins
+drwxr-xr-x    4 camredd    camredd          4096 Nov 17  2019 themes
+-rw-r--r--    1 camredd    camredd         15996 Nov 17  2019 tiny_mce_popup.js
+-rw-r--r--    1 camredd    camredd        461019 Nov 17  2019 tinymce.min.js
+drwxr-xr-x    2 camredd    camredd          4096 Nov 17  2019 utils
+-rw-r--r--    1 camredd    camredd        200292 Nov 17  2019 wp-tinymce.js.gz
+-rw-r--r--    1 camredd    camredd          1126 Nov 17  2019 wp-tinymce.php

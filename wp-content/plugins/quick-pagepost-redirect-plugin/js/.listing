@@ -1,0 +1,10 @@
+drwxr-xr-x    2 camredd    camredd          4096 Oct 10  2017 .
+drwxr-xr-x    6 camredd    camredd          4096 Oct 10  2017 ..
+-rw-r--r--    1 camredd    camredd         10429 May 17  2018 qppr_admin_script.js
+-rw-r--r--    1 camredd    camredd          7477 May 17  2018 qppr_admin_script.min.js
+-rw-r--r--    1 camredd    camredd          2077 May 17  2018 qppr_frontend_script.js
+-rw-r--r--    1 camredd    camredd          1590 May 17  2018 qppr_frontend_script.min.js
+-rw-r--r--    1 camredd    camredd          2333 May 17  2018 qppr_meta_redirect.js
+-rw-r--r--    1 camredd    camredd          1482 May 17  2018 qppr_meta_redirect.min.js
+-rw-r--r--    1 camredd    camredd           404 May 17  2018 qppr_pointers.js
+-rw-r--r--    1 camredd    camredd           283 May 17  2018 qppr_pointers.min.js

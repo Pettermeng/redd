@@ -1,0 +1,13 @@
+drwxr-xr-x    5 camredd    camredd          4096 Oct 10  2017 .
+drwxr-xr-x    5 camredd    camredd          4096 Oct 10  2017 ..
+drwxr-xr-x    2 camredd    camredd          4096 Oct 10  2017 abstracts
+drwxr-xr-x    3 camredd    camredd          4096 Oct 10  2017 admin
+-rw-r--r--    1 camredd    camredd          1162 May 17  2018 class-si-ajax.php
+-rw-r--r--    1 camredd    camredd          1866 May 17  2018 class-si-autoloader.php
+-rw-r--r--    1 camredd    camredd          2724 May 17  2018 class-si-frontend-scripts.php
+-rw-r--r--    1 camredd    camredd          1982 May 17  2018 class-si-install.php
+-rw-r--r--    1 camredd    camredd          3254 May 17  2018 class-si-post-types.php
+-rw-r--r--    1 camredd    camredd          3495 May 17  2018 class-si-shortcodes.php
+-rw-r--r--    1 camredd    camredd          6091 May 17  2018 functions-si-core.php
+-rw-r--r--    1 camredd    camredd           639 May 17  2018 functions-si-widget.php
+drwxr-xr-x    2 camredd    camredd          4096 Oct 10  2017 widgets

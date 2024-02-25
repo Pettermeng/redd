@@ -1,0 +1,6 @@
+drwxr-xr-x    4 camredd    camredd          4096 Oct 10  2017 .
+drwxr-xr-x    4 camredd    camredd          4096 Oct 10  2017 ..
+drwxr-xr-x    2 camredd    camredd          4096 Oct 10  2017 css
+drwxr-xr-x    2 camredd    camredd          4096 Oct 10  2017 img
+-rw-r--r--    1 camredd    camredd         16124 May 17  2018 jquery.plupload.queue.js
+-rw-r--r--    1 camredd    camredd          6682 May 17  2018 jquery.plupload.queue.min.js

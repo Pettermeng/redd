@@ -1,0 +1,9 @@
+drwxr-xr-x    2 camredd    camredd          4096 Oct 10  2017 .
+drwxr-xr-x    6 camredd    camredd          4096 Oct 10  2017 ..
+-rw-r--r--    1 camredd    camredd           697 May 17  2018 class.nextgen_settings.php
+-rw-r--r--    1 camredd    camredd          7880 May 17  2018 class.nextgen_shortcode_manager.php
+-rw-r--r--    1 camredd    camredd          7550 May 17  2018 class.nextgen_style_manager.php
+-rw-r--r--    1 camredd    camredd         10699 May 17  2018 class.photocrati_installer.php
+-rw-r--r--    1 camredd    camredd          6714 May 17  2018 class.photocrati_resource_manager.php
+-rw-r--r--    1 camredd    camredd          6904 May 17  2018 class.photocrati_settings_manager.php
+-rw-r--r--    1 camredd    camredd          6895 May 17  2018 class.photocrati_transient_manager.php

@@ -1,0 +1,14 @@
+drwxr-xr-x    4 camredd    camredd          4096 Apr  6  2018 .
+drwxr-xr-x    9 camredd    camredd          4096 Apr  6  2018 ..
+drwxr-xr-x    2 camredd    camredd          4096 Apr  6  2018 admin
+drwxr-xr-x    2 camredd    camredd          4096 Apr  6  2018 libs
+-rw-r--r--    1 camredd    camredd          5040 May 17  2018 mpc-icons-admin.css
+-rw-r--r--    1 camredd    camredd         37605 May 17  2018 mpc-main-admin.css
+-rw-r--r--    1 camredd    camredd         11554 May 17  2018 mpc-main.css
+-rw-r--r--    1 camredd    camredd          9019 May 17  2018 mpc-main.min.css
+-rw-r--r--    1 camredd    camredd         18910 May 17  2018 mpc-panel.css
+-rw-r--r--    1 camredd    camredd         43633 May 17  2018 mpc-params.css
+-rw-r--r--    1 camredd    camredd         17291 May 17  2018 mpc-shortcodes-admin.css
+-rw-r--r--    1 camredd    camredd        236874 May 17  2018 mpc-shortcodes.css
+-rw-r--r--    1 camredd    camredd        142364 May 17  2018 mpc-styles-admin.css
+-rw-r--r--    1 camredd    camredd        245895 May 17  2018 mpc-styles.css

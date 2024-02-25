@@ -1,0 +1,8 @@
+drwxr-xr-x    2 camredd    camredd          4096 Oct 10  2017 .
+drwxr-xr-x    7 camredd    camredd          4096 Oct 10  2017 ..
+-rw-r--r--    1 camredd    camredd         11866 May 17  2018 class-vc-color-helper.php
+-rw-r--r--    1 camredd    camredd          1518 May 17  2018 filters.php
+-rw-r--r--    1 camredd    camredd         34588 May 17  2018 helpers.php
+-rw-r--r--    1 camredd    camredd         18032 May 17  2018 helpers_api.php
+-rw-r--r--    1 camredd    camredd          1309 May 17  2018 helpers_deprecated.php
+-rw-r--r--    1 camredd    camredd         14107 May 17  2018 helpers_factory.php

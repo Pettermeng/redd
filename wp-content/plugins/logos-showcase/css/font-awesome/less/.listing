@@ -1,0 +1,16 @@
+drwxr-xr-x    2 camredd    camredd          4096 Oct 10  2017 .
+drwxr-xr-x    6 camredd    camredd          4096 Oct 10  2017 ..
+-rw-r--r--    1 camredd    camredd           713 May 17  2018 animated.less
+-rw-r--r--    1 camredd    camredd           585 May 17  2018 bordered-pulled.less
+-rw-r--r--    1 camredd    camredd           452 May 17  2018 core.less
+-rw-r--r--    1 camredd    camredd           119 May 17  2018 fixed-width.less
+-rw-r--r--    1 camredd    camredd           465 May 17  2018 font-awesome.less
+-rw-r--r--    1 camredd    camredd         42489 May 17  2018 icons.less
+-rw-r--r--    1 camredd    camredd           370 May 17  2018 larger.less
+-rw-r--r--    1 camredd    camredd           377 May 17  2018 list.less
+-rw-r--r--    1 camredd    camredd           926 May 17  2018 mixins.less
+-rw-r--r--    1 camredd    camredd           770 May 17  2018 path.less
+-rw-r--r--    1 camredd    camredd           622 May 17  2018 rotated-flipped.less
+-rw-r--r--    1 camredd    camredd           582 May 17  2018 spinning.less
+-rw-r--r--    1 camredd    camredd           476 May 17  2018 stacked.less
+-rw-r--r--    1 camredd    camredd         19203 May 17  2018 variables.less

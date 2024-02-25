@@ -1,0 +1,7 @@
+drwxr-xr-x    2 camredd    camredd          4096 Oct 10  2017 .
+drwxr-xr-x   19 camredd    camredd          4096 Oct 10  2017 ..
+-rw-r--r--    1 camredd    camredd         53148 May 17  2018 Checker.php
+-rw-r--r--    1 camredd    camredd         12299 May 17  2018 Notices.php
+-rw-r--r--    1 camredd    camredd          4072 May 17  2018 Package_Handler.php
+-rw-r--r--    1 camredd    camredd          3676 May 17  2018 Plugin_Info.php
+-rw-r--r--    1 camredd    camredd          2649 May 17  2018 Utility.php

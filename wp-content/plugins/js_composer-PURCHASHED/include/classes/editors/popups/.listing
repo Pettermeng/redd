@@ -1,0 +1,8 @@
+drwxr-xr-x    2 camredd    camredd          4096 Oct 10  2017 .
+drwxr-xr-x    4 camredd    camredd          4096 Oct 10  2017 ..
+-rw-r--r--    1 camredd    camredd          4662 May 17  2018 class-vc-add-element-box.php
+-rw-r--r--    1 camredd    camredd           337 May 17  2018 class-vc-edit-layout.php
+-rw-r--r--    1 camredd    camredd           673 May 17  2018 class-vc-post-settings.php
+-rw-r--r--    1 camredd    camredd          3065 May 17  2018 class-vc-preset-panel-editor.php
+-rw-r--r--    1 camredd    camredd          2359 May 17  2018 class-vc-shortcode-edit-form.php
+-rw-r--r--    1 camredd    camredd         29570 May 17  2018 class-vc-templates-panel-editor.php

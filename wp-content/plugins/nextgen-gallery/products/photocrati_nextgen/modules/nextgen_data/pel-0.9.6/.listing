@@ -1,0 +1,7 @@
+drwxr-xr-x    3 camredd    camredd          4096 Oct 10  2017 .
+drwxr-xr-x    3 camredd    camredd          4096 Oct 10  2017 ..
+-rw-r--r--    1 camredd    camredd          1430 May 17  2018 AUTHORS
+-rw-r--r--    1 camredd    camredd         18351 May 17  2018 COPYING
+-rw-r--r--    1 camredd    camredd          1380 May 17  2018 autoload.php
+-rw-r--r--    1 camredd    camredd          3139 May 17  2018 class.exif_writer.php
+drwxr-xr-x    2 camredd    camredd          4096 Oct 10  2017 src

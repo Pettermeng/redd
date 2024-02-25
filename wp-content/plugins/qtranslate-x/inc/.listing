@@ -1,0 +1,5 @@
+drwxr-xr-x    2 camredd    camredd          4096 Oct 10  2017 .
+drwxr-xr-x    8 camredd    camredd          4096 Oct 10  2017 ..
+-rw-r--r--    1 camredd    camredd          3863 May 17  2018 i18n-interface.php
+-rw-r--r--    1 camredd    camredd          1909 May 17  2018 qtx_class_translator.php
+-rw-r--r--    1 camredd    camredd          1921 May 17  2018 qtx_dbg.php

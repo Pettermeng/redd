@@ -1,0 +1,1 @@
+[13-Jul-2020 19:11:17 CST6CDT] PHP Fatal error:  Interface 'Requests_Auth' not found in /home/camredd/public_html/wp-includes/Requests/Auth/Basic.php on line 18

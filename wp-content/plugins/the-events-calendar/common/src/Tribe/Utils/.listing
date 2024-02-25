@@ -1,0 +1,9 @@
+drwxr-xr-x    2 camredd    camredd          4096 Oct 10  2017 .
+drwxr-xr-x   19 camredd    camredd          4096 Oct 10  2017 ..
+-rw-r--r--    1 camredd    camredd          4594 May 17  2018 Array.php
+-rw-r--r--    1 camredd    camredd         12996 May 17  2018 Color.php
+-rw-r--r--    1 camredd    camredd          3074 May 17  2018 Coordinates_Provider.php
+-rw-r--r--    1 camredd    camredd          2152 May 17  2018 Global_ID.php
+-rw-r--r--    1 camredd    camredd          1014 May 17  2018 JSON.php
+-rw-r--r--    1 camredd    camredd          2261 May 17  2018 Plugins.php
+-rw-r--r--    1 camredd    camredd          3798 May 17  2018 Post_Root_Pool.php

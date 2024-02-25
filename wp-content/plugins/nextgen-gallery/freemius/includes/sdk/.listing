@@ -1,0 +1,6 @@
+drwxr-xr-x    3 camredd    camredd          4096 Oct 10  2017 .
+drwxr-xr-x    7 camredd    camredd          4096 Oct 10  2017 ..
+drwxr-xr-x    2 camredd    camredd          4096 Oct 10  2017 Exceptions
+-rw-r--r--    1 camredd    camredd         17952 May 17  2018 Freemius.php
+-rw-r--r--    1 camredd    camredd          5559 May 17  2018 FreemiusBase.php
+-rw-r--r--    1 camredd    camredd         18367 May 17  2018 LICENSE.txt

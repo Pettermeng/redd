@@ -1,0 +1,1 @@
+[09-Jan-2020 09:01:42 CST6CDT] PHP Fatal error:  Class 'WP_HTTP_Response' not found in /home/camredd/public_html/wp-includes/rest-api/class-wp-rest-response.php on line 17

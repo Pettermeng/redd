@@ -1,0 +1,108 @@
+.processStep{
+	max-width: 635px;
+	border-top: 2px solid #BABABA;
+	margin: 0px auto;
+	margin-top: 80px;
+	margin-bottom: 60px;
+	position: relative;
+	height: 83px;
+}
+
+.processStep .step1{
+	position: absolute;
+	width: 234px;
+	top: -5px;
+	left: -117px;
+}
+.step1 .point{
+	width: 8px;
+	height: 8px;
+	background: #999999;
+	margin: 0px auto;
+	border-radius: 50%;
+}
+.step1.active .point{
+	background: #077907;
+	width: 12px;
+	height: 12px;
+	margin-top: -2px;
+}
+
+.processStep .step2{
+	position: absolute;
+	width: 234px;
+	top: -5px;
+	left: calc(50% - 117px);
+}
+.step2 .point{
+	width: 8px;
+	height: 8px;
+	background: #999999;
+	margin: 0px auto;
+	border-radius: 50%;
+}
+.step2.active .point{
+	background: #077907;
+	width: 12px;
+	height: 12px;
+	margin-top: -2px;
+}
+
+.processStep .step3{
+	position: absolute;
+	width: 234px;
+	top: -5px;
+	right: -117px;
+}
+.step3 .point{
+	width: 8px;
+	height: 8px;
+	background: #999999;
+	margin: 0px auto;
+	border-radius: 50%;
+}
+.step3.active .point{
+	background: #077907;
+	width: 12px;
+	height: 12px;
+	margin-top: -2px;
+}
+
+.processStep .titleStep{
+	font-family: Tahoma;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	line-height: 25px;
+	text-align: center;
+	color: #999999;
+	padding-top: 30px;
+}
+.processStep .project-detaile-mobile{
+	display: none;
+}
+
+
+.processStep .active .titleStep{
+	color: #077907;
+}
+
+@media only screen and (max-width: 1023px) {
+.processStep .titleStep{
+	padding-left: 51px;
+	padding-right: 53px;
+	font-size: 16px;
+	line-height: 21px;
+}
+}
+@media only screen and (max-width: 767px) {
+	.processStep{
+		display: none;
+	}
+	.processStep .project-detaile-mobile{
+		display: block;
+	}
+	.processStep .project-detaile-desktop{
+		display: none;
+	}
+}

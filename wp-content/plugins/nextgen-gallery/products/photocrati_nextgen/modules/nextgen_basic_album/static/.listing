@@ -1,0 +1,17 @@
+drwxr-xr-x    2 camredd    camredd          4096 Oct 10  2017 .
+drwxr-xr-x    4 camredd    camredd          4096 Oct 10  2017 ..
+-rw-r--r--    1 camredd    camredd           814 May 17  2018 albumset.gif
+-rw-r--r--    1 camredd    camredd           406 May 17  2018 breadcrumbs.css
+-rw-r--r--    1 camredd    camredd           263 May 17  2018 breadcrumbs.min.css
+-rw-r--r--    1 camredd    camredd          7320 May 17  2018 compact_preview.jpg
+-rw-r--r--    1 camredd    camredd           331 May 17  2018 compact_settings.js
+-rw-r--r--    1 camredd    camredd           298 May 17  2018 compact_settings.min.js
+-rw-r--r--    1 camredd    camredd          6202 May 17  2018 extended_preview.jpg
+-rw-r--r--    1 camredd    camredd           334 May 17  2018 extended_settings.js
+-rw-r--r--    1 camredd    camredd           301 May 17  2018 extended_settings.min.js
+-rw-r--r--    1 camredd    camredd           156 May 17  2018 init.js
+-rw-r--r--    1 camredd    camredd           121 May 17  2018 init.min.js
+-rw-r--r--    1 camredd    camredd          5171 May 17  2018 jquery.dotdotdot-1.5.7-packed.js
+-rw-r--r--    1 camredd    camredd          4844 May 17  2018 jquery.dotdotdot-1.5.7-packed.min.js
+-rw-r--r--    1 camredd    camredd          2221 May 17  2018 nextgen_basic_album.css
+-rw-r--r--    1 camredd    camredd          1389 May 17  2018 nextgen_basic_album.min.css

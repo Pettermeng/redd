@@ -1,0 +1,13 @@
+drwxr-xr-x    3 camredd    camredd          4096 Oct 10  2017 .
+drwxr-xr-x    3 camredd    camredd          4096 Oct 10  2017 ..
+-rw-r--r--    1 camredd    camredd             0 May 17  2018 index.php
+-rw-r--r--    1 camredd    camredd          8293 May 17  2018 revolution.extension.actions.min.js
+-rw-r--r--    1 camredd    camredd          7613 May 17  2018 revolution.extension.carousel.min.js
+-rw-r--r--    1 camredd    camredd          3760 May 17  2018 revolution.extension.kenburn.min.js
+-rw-r--r--    1 camredd    camredd         56006 May 17  2018 revolution.extension.layeranimation.min.js
+-rw-r--r--    1 camredd    camredd         26107 May 17  2018 revolution.extension.migration.min.js
+-rw-r--r--    1 camredd    camredd         26107 May 17  2018 revolution.extension.navigation.min.js
+-rw-r--r--    1 camredd    camredd         10937 May 17  2018 revolution.extension.parallax.min.js
+-rw-r--r--    1 camredd    camredd         29407 May 17  2018 revolution.extension.slideanims.min.js
+-rw-r--r--    1 camredd    camredd         24217 May 17  2018 revolution.extension.video.min.js
+drwxr-xr-x    2 camredd    camredd          4096 Oct 10  2017 source

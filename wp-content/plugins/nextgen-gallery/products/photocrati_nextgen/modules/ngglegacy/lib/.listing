@@ -1,0 +1,16 @@
+drwxr-xr-x    2 camredd    camredd          4096 Oct 10  2017 .
+drwxr-xr-x   10 camredd    camredd          4096 Oct 10  2017 ..
+-rw-r--r--    1 camredd    camredd          1258 May 17  2018 class.ngg_serializable.php
+-rw-r--r--    1 camredd    camredd          7781 May 17  2018 core.php
+-rw-r--r--    1 camredd    camredd         30458 May 17  2018 gd.thumbnail.inc.php
+-rw-r--r--    1 camredd    camredd          2074 May 17  2018 image.php
+-rw-r--r--    1 camredd    camredd         19012 May 17  2018 imagemagick.inc.php
+-rw-r--r--    1 camredd    camredd          8706 May 17  2018 media-rss.php
+-rw-r--r--    1 camredd    camredd         21534 May 17  2018 meta.php
+-rw-r--r--    1 camredd    camredd          1344 May 17  2018 multisite.php
+-rw-r--r--    1 camredd    camredd         34589 May 17  2018 ngg-db.php
+-rw-r--r--    1 camredd    camredd          8219 May 17  2018 post-thumbnail.php
+-rw-r--r--    1 camredd    camredd         14519 May 17  2018 rewrite.php
+-rw-r--r--    1 camredd    camredd          5430 May 17  2018 shortcodes.php
+-rw-r--r--    1 camredd    camredd          3798 May 17  2018 sitemap.php
+-rw-r--r--    1 camredd    camredd         11052 May 17  2018 tags.php

@@ -1,0 +1,7 @@
+drwxr-xr-x    3 camredd    camredd          4096 Oct 10  2017 .
+drwxr-xr-x    5 camredd    camredd          4096 Oct 10  2017 ..
+drwxr-xr-x    2 camredd    camredd          4096 Oct 10  2017 deactivation
+-rw-r--r--    1 camredd    camredd          6385 May 17  2018 license-activation.php
+-rw-r--r--    1 camredd    camredd          6325 May 17  2018 optout.php
+-rw-r--r--    1 camredd    camredd          5493 May 17  2018 resend-key.php
+-rw-r--r--    1 camredd    camredd          4762 May 17  2018 trial-start.php

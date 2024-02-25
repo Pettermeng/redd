@@ -1,0 +1,16 @@
+drwxr-xr-x    2 camredd    camredd          4096 Oct 10  2017 .
+drwxr-xr-x    5 camredd    camredd          4096 Oct 10  2017 ..
+-rw-r--r--    1 camredd    camredd          3889 May 17  2018 date.php
+-rw-r--r--    1 camredd    camredd          4827 May 17  2018 day.php
+-rw-r--r--    1 camredd    camredd         39572 May 17  2018 deprecated.php
+-rw-r--r--    1 camredd    camredd         50520 May 17  2018 general.php
+-rw-r--r--    1 camredd    camredd          3566 May 17  2018 google-map.php
+-rw-r--r--    1 camredd    camredd          1433 May 17  2018 ical.php
+-rw-r--r--    1 camredd    camredd          9753 May 17  2018 link.php
+-rw-r--r--    1 camredd    camredd         14008 May 17  2018 loop.php
+-rw-r--r--    1 camredd    camredd         10641 May 17  2018 month.php
+-rw-r--r--    1 camredd    camredd          1686 May 17  2018 options.php
+-rw-r--r--    1 camredd    camredd         12575 May 17  2018 organizer.php
+-rw-r--r--    1 camredd    camredd          2244 May 17  2018 query.php
+-rw-r--r--    1 camredd    camredd         23507 May 17  2018 venue.php
+-rw-r--r--    1 camredd    camredd           507 May 17  2018 widgets.php

@@ -1,0 +1,9 @@
+drwxr-xr-x    2 camredd    camredd          4096 Oct 10  2017 .
+drwxr-xr-x    3 camredd    camredd          4096 Oct 10  2017 ..
+-rw-r--r--    1 camredd    camredd           987 May 17  2018 Builder_Interface.php
+-rw-r--r--    1 camredd    camredd          1649 May 17  2018 Cost_Details_Definition_Provider.php
+-rw-r--r--    1 camredd    camredd          1803 May 17  2018 Date_Details_Definition_Provider.php
+-rw-r--r--    1 camredd    camredd          1957 May 17  2018 Image_Definition_Provider.php
+-rw-r--r--    1 camredd    camredd          1674 May 17  2018 Image_Size_Definition_Provider.php
+-rw-r--r--    1 camredd    camredd           565 May 17  2018 Provider_Interface.php
+-rw-r--r--    1 camredd    camredd          2304 May 17  2018 Term_Definition_Provider.php

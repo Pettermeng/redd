@@ -1,0 +1,10 @@
+drwxr-xr-x    2 camredd    camredd          4096 Oct 10  2017 .
+drwxr-xr-x    6 camredd    camredd          4096 Oct 10  2017 ..
+-rw-r--r--    1 camredd    camredd          4667 May 17  2018 class-admin-pointer.php
+-rw-r--r--    1 camredd    camredd         15094 May 17  2018 class-admin.php
+-rw-r--r--    1 camredd    camredd         14190 May 17  2018 class-compatibility-plugins.php
+-rw-r--r--    1 camredd    camredd         11228 May 17  2018 class-compatibility-wordpress.php
+-rw-r--r--    1 camredd    camredd          3600 May 17  2018 class-compatibility.php
+-rw-r--r--    1 camredd    camredd          4573 May 17  2018 class-text-filters.php
+-rw-r--r--    1 camredd    camredd          5752 May 17  2018 class-widget.php
+-rw-r--r--    1 camredd    camredd          4067 May 17  2018 deprecated.php

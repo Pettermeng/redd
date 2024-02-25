@@ -1,0 +1,16 @@
+[08-Jan-2020 19:46:28 CST6CDT] PHP Fatal error:  Class 'getid3_handler' not found in /home/camredd/public_html/wp-includes/ID3/module.audio.mp3.php on line 26
+[08-Jan-2020 21:37:29 CST6CDT] PHP Fatal error:  Class 'getid3_handler' not found in /home/camredd/public_html/wp-includes/ID3/module.audio.ac3.php on line 19
+[08-Jan-2020 21:59:02 CST6CDT] PHP Fatal error:  Class 'getid3_handler' not found in /home/camredd/public_html/wp-includes/ID3/module.tag.apetag.php on line 18
+[09-Jan-2020 02:05:10 CST6CDT] PHP Fatal error:  Class 'getid3_handler' not found in /home/camredd/public_html/wp-includes/ID3/module.audio-video.flv.php on line 76
+[09-Jan-2020 03:39:50 CST6CDT] PHP Fatal error:  Class 'getid3_lib' not found in /home/camredd/public_html/wp-includes/ID3/module.audio-video.riff.php on line 26
+[09-Jan-2020 08:52:14 CST6CDT] PHP Fatal error:  Class 'getid3_handler' not found in /home/camredd/public_html/wp-includes/ID3/module.audio-video.matroska.php on line 217
+[09-Jan-2020 10:07:58 CST6CDT] PHP Fatal error:  Class 'getid3_lib' not found in /home/camredd/public_html/wp-includes/ID3/module.audio-video.quicktime.php on line 18
+[10-Jan-2020 05:09:53 CST6CDT] PHP Fatal error:  Class 'getid3_handler' not found in /home/camredd/public_html/wp-includes/ID3/module.audio.dts.php on line 22
+[10-Jan-2020 05:19:21 CST6CDT] PHP Fatal error:  Class 'getid3_lib' not found in /home/camredd/public_html/wp-includes/ID3/module.audio.ogg.php on line 17
+[10-Jan-2020 05:28:49 CST6CDT] PHP Fatal error:  Class 'getid3_handler' not found in /home/camredd/public_html/wp-includes/ID3/module.tag.id3v1.php on line 19
+[10-Jan-2020 05:38:17 CST6CDT] PHP Fatal error:  Class 'getid3_lib' not found in /home/camredd/public_html/wp-includes/ID3/module.tag.id3v2.php on line 17
+[10-Jan-2020 08:38:10 CST6CDT] PHP Fatal error:  Class 'getid3_lib' not found in /home/camredd/public_html/wp-includes/ID3/module.audio-video.asf.php on line 17
+[09-Mar-2020 15:54:20 CST6CDT] PHP Fatal error:  Uncaught Error: Class 'getid3_handler' not found in /home/camredd/public_html/wp-includes/ID3/module.audio.ac3.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/camredd/public_html/wp-includes/ID3/module.audio.ac3.php on line 18

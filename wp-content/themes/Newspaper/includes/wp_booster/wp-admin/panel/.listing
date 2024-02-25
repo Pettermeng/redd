@@ -1,0 +1,16 @@
+drwxr-xr-x    4 camredd    camredd          4096 Oct 10  2017 .
+drwxr-xr-x    9 camredd    camredd          4096 Oct 10  2017 ..
+drwxr-xr-x    2 camredd    camredd          4096 Oct 10  2017 panel_core
+-rw-r--r--    1 camredd    camredd          8334 Oct 10  2017 td_demo_installer.php
+-rw-r--r--    1 camredd    camredd         42141 Oct 10  2017 td_demo_util.php
+-rw-r--r--    1 camredd    camredd          4582 Oct 10  2017 td_panel.php
+-rw-r--r--    1 camredd    camredd           831 Oct 10  2017 td_view_header.php
+-rw-r--r--    1 camredd    camredd         15199 Oct 10  2017 td_view_import_export_settings.php
+-rw-r--r--    1 camredd    camredd         14478 Oct 10  2017 td_view_install_demos.php
+-rw-r--r--    1 camredd    camredd            89 Oct 10  2017 td_view_panel.php
+-rw-r--r--    1 camredd    camredd          1171 Oct 10  2017 td_view_support.php
+-rw-r--r--    1 camredd    camredd         52013 Oct 10  2017 td_view_system_status.php
+-rw-r--r--    1 camredd    camredd          7651 Oct 10  2017 td_view_theme_plugins.php
+-rw-r--r--    1 camredd    camredd         56311 Oct 10  2017 td_view_update_newspaper_6.php
+-rw-r--r--    1 camredd    camredd          4463 Oct 10  2017 td_view_welcome.php
+drwxr-xr-x    3 camredd    camredd          4096 Oct 10  2017 views

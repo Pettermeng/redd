@@ -1,0 +1,6 @@
+drwxr-xr-x    2 camredd    camredd          4096 Apr 23  2018 .
+drwxr-xr-x    6 camredd    camredd          4096 Apr 23  2018 ..
+-rw-r--r--    1 camredd    camredd          1597 May 17  2018 IncomingMail.php
+-rw-r--r--    1 camredd    camredd          1528 May 17  2018 LICENSE
+-rw-r--r--    1 camredd    camredd         19557 May 17  2018 Mailbox.php
+-rw-r--r--    1 camredd    camredd           295 May 17  2018 __autoload.php

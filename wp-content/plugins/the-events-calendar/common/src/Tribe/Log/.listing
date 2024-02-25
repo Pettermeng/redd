@@ -1,0 +1,6 @@
+drwxr-xr-x    2 camredd    camredd          4096 Oct 10  2017 .
+drwxr-xr-x   19 camredd    camredd          4096 Oct 10  2017 ..
+-rw-r--r--    1 camredd    camredd          6674 May 17  2018 Admin.php
+-rw-r--r--    1 camredd    camredd          7760 May 17  2018 File_Logger.php
+-rw-r--r--    1 camredd    camredd          2414 May 17  2018 Logger.php
+-rw-r--r--    1 camredd    camredd          2605 May 17  2018 Null_Logger.php

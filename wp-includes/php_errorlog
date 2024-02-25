@@ -1,0 +1,50 @@
+[21-Nov-2019 00:56:22 CST6CDT] PHP Fatal error:  Call to undefined function is_admin() in /home/camredd/public_html/wp-includes/vars.php on line 23
+[27-Nov-2019 08:06:53 CST6CDT] PHP Fatal error:  Call to undefined function add_shortcode() in /home/camredd/public_html/wp-includes/media.php on line 1486
+[27-Nov-2019 21:02:33 CST6CDT] PHP Fatal error:  Call to undefined function feed_content_type() in /home/camredd/public_html/wp-includes/feed-atom.php on line 8
+[29-Nov-2019 15:38:07 CST6CDT] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/random_compat/random.php' (include_path='.:/usr/local/php56/pear') in /home/camredd/public_html/wp-includes/compat.php on line 435
+[29-Nov-2019 15:58:36 CST6CDT] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/class-requests.php' (include_path='.:/usr/local/php56/pear') in /home/camredd/public_html/wp-includes/class-http.php on line 11
+[30-Nov-2019 14:07:18 CST6CDT] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/Text/Diff.php' (include_path='.:/usr/local/php56/pear') in /home/camredd/public_html/wp-includes/wp-diff.php on line 13
+[01-Dec-2019 14:35:46 CST6CDT] PHP Fatal error:  require_once(): Failed opening required 'ABSPATHWPINC/IXR/class-IXR-server.php' (include_path='.:/usr/local/php56/pear') in /home/camredd/public_html/wp-includes/class-IXR.php on line 42
+[21-Dec-2019 13:25:12 CST6CDT] PHP Fatal error:  Class 'Walker' not found in /home/camredd/public_html/wp-includes/class-walker-comment.php on line 17
+[21-Dec-2019 16:37:23 CST6CDT] PHP Fatal error:  Class 'WP_Dependencies' not found in /home/camredd/public_html/wp-includes/class.wp-scripts.php on line 18
+[24-Dec-2019 17:17:48 CST6CDT] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/camredd/public_html/wp-includes/class-feed.php on line 9
+[31-Dec-2019 11:02:18 CST6CDT] PHP Fatal error:  Call to undefined function feed_content_type() in /home/camredd/public_html/wp-includes/feed-rdf.php on line 8
+[06-Jan-2020 11:58:27 CST6CDT] PHP Fatal error:  Call to undefined function feed_content_type() in /home/camredd/public_html/wp-includes/feed-rss2.php on line 8
+[06-Jan-2020 12:05:29 CST6CDT] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/SimplePie/Misc.php' (include_path='.:/usr/local/php56/pear') in /home/camredd/public_html/wp-includes/class-simplepie.php on line 5
+[06-Jan-2020 12:06:48 CST6CDT] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/option.php' (include_path='.:/usr/local/php56/pear') in /home/camredd/public_html/wp-includes/functions.php on line 8
+[06-Jan-2020 12:31:24 CST6CDT] PHP Fatal error:  Call to undefined function is_robots() in /home/camredd/public_html/wp-includes/template-loader.php on line 28
+[06-Jan-2020 13:01:25 CST6CDT] PHP Fatal error:  require_once(): Failed opening required 'ABSPATHWPINC/class-wp-network.php' (include_path='.:/usr/local/php56/pear') in /home/camredd/public_html/wp-includes/ms-settings.php on line 26
+[06-Jan-2020 13:10:52 CST6CDT] PHP Fatal error:  Class 'WP_Dependencies' not found in /home/camredd/public_html/wp-includes/class.wp-scripts.php on line 18
+[06-Jan-2020 13:58:11 CST6CDT] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/camredd/public_html/wp-includes/class-snoopy.php on line 6
+[06-Jan-2020 14:17:08 CST6CDT] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/camredd/public_html/wp-includes/registration.php on line 7
+[06-Jan-2020 15:42:19 CST6CDT] PHP Fatal error:  Class 'Walker' not found in /home/camredd/public_html/wp-includes/class-walker-category.php on line 17
+[06-Jan-2020 16:01:15 CST6CDT] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/camredd/public_html/wp-includes/registration-functions.php on line 7
+[06-Jan-2020 16:39:07 CST6CDT] PHP Fatal error:  Class 'SimplePie_File' not found in /home/camredd/public_html/wp-includes/class-wp-simplepie-file.php on line 17
+[06-Jan-2020 17:07:31 CST6CDT] PHP Fatal error:  Class 'IXR_Client' not found in /home/camredd/public_html/wp-includes/class-wp-http-ixr-client.php on line 9
+[06-Jan-2020 17:16:59 CST6CDT] PHP Fatal error:  Class 'Walker' not found in /home/camredd/public_html/wp-includes/class-walker-page-dropdown.php on line 17
+[06-Jan-2020 17:26:27 CST6CDT] PHP Fatal error:  require_once(): Failed opening required 'ABSPATHWPINC/customize/class-wp-customize-filter-setting.php' (include_path='.:/usr/local/php56/pear') in /home/camredd/public_html/wp-includes/class-wp-customize-setting.php on line 955
+[06-Jan-2020 17:54:51 CST6CDT] PHP Fatal error:  require_once(): Failed opening required 'ABSPATHWPINC/customize/class-wp-customize-themes-section.php' (include_path='.:/usr/local/php56/pear') in /home/camredd/public_html/wp-includes/class-wp-customize-section.php on line 397
+[06-Jan-2020 18:32:43 CST6CDT] PHP Fatal error:  Call to undefined function add_action() in /home/camredd/public_html/wp-includes/ms-default-filters.php on line 16
+[06-Jan-2020 20:35:47 CST6CDT] PHP Fatal error:  Class 'Walker' not found in /home/camredd/public_html/wp-includes/class-walker-comment.php on line 17
+[06-Jan-2020 21:13:39 CST6CDT] PHP Fatal error:  Class 'Walker' not found in /home/camredd/public_html/wp-includes/class-walker-nav-menu.php on line 17
+[06-Jan-2020 21:23:07 CST6CDT] PHP Fatal error:  Class 'WP_Image_Editor' not found in /home/camredd/public_html/wp-includes/class-wp-image-editor-imagick.php on line 17
+[06-Jan-2020 21:42:03 CST6CDT] PHP Fatal error:  Class 'Walker' not found in /home/camredd/public_html/wp-includes/class-walker-category-dropdown.php on line 17
+[06-Jan-2020 21:51:31 CST6CDT] PHP Fatal error:  Class 'WP_HTTP_Response' not found in /home/camredd/public_html/wp-includes/class-wp-http-requests-response.php on line 17
+[07-Jan-2020 01:38:43 CST6CDT] PHP Fatal error:  Class 'WP_Image_Editor' not found in /home/camredd/public_html/wp-includes/class-wp-image-editor-gd.php on line 17
+[07-Jan-2020 02:26:03 CST6CDT] PHP Fatal error:  require_once(): Failed opening required 'ABSPATHWPINC/customize/class-wp-customize-nav-menus-panel.php' (include_path='.:/usr/local/php56/pear') in /home/camredd/public_html/wp-includes/class-wp-customize-panel.php on line 399
+[07-Jan-2020 04:29:07 CST6CDT] PHP Fatal error:  require_once(): Failed opening required 'ABSPATHWPINC/customize/class-wp-customize-color-control.php' (include_path='.:/usr/local/php56/pear') in /home/camredd/public_html/wp-includes/class-wp-customize-control.php on line 681
+[07-Jan-2020 05:44:51 CST6CDT] PHP Fatal error:  Class 'Requests_Hooks' not found in /home/camredd/public_html/wp-includes/class-wp-http-requests-hooks.php on line 17
+[07-Jan-2020 06:32:11 CST6CDT] PHP Fatal error:  Class 'SimplePie_Sanitize' not found in /home/camredd/public_html/wp-includes/class-wp-simplepie-sanitize-kses.php on line 20
+[07-Jan-2020 06:51:07 CST6CDT] PHP Fatal error:  Class 'WP_Session_Tokens' not found in /home/camredd/public_html/wp-includes/class-wp-user-meta-session-tokens.php on line 15
+[07-Jan-2020 07:00:35 CST6CDT] PHP Fatal error:  Class 'Text_Diff_Renderer' not found in /home/camredd/public_html/wp-includes/class-wp-text-diff-renderer-table.php on line 16
+[07-Jan-2020 16:28:43 CST6CDT] PHP Fatal error:  Class 'Text_Diff_Renderer_inline' not found in /home/camredd/public_html/wp-includes/class-wp-text-diff-renderer-inline.php on line 16
+[28-May-2020 06:32:49 CST6CDT] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/option.php' (include_path='.:/usr/local/php56/pear') in /home/camredd/public_html/wp-includes/functions.php on line 8
+[28-May-2020 06:32:50 CST6CDT] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/option.php' (include_path='.:/usr/local/php56/pear') in /home/camredd/public_html/wp-includes/functions.php on line 8
+[28-May-2020 06:32:52 CST6CDT] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/option.php' (include_path='.:/usr/local/php56/pear') in /home/camredd/public_html/wp-includes/functions.php on line 8
+[28-May-2020 06:33:02 CST6CDT] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/option.php' (include_path='.:/usr/local/php56/pear') in /home/camredd/public_html/wp-includes/functions.php on line 8
+[28-May-2020 06:33:05 CST6CDT] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/option.php' (include_path='.:/usr/local/php56/pear') in /home/camredd/public_html/wp-includes/functions.php on line 8
+[28-May-2020 06:33:09 CST6CDT] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/option.php' (include_path='.:/usr/local/php56/pear') in /home/camredd/public_html/wp-includes/functions.php on line 8
+[28-May-2020 06:33:13 CST6CDT] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/option.php' (include_path='.:/usr/local/php56/pear') in /home/camredd/public_html/wp-includes/functions.php on line 8
+[28-May-2020 06:33:16 CST6CDT] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/option.php' (include_path='.:/usr/local/php56/pear') in /home/camredd/public_html/wp-includes/functions.php on line 8
+[28-May-2020 06:33:18 CST6CDT] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/option.php' (include_path='.:/usr/local/php56/pear') in /home/camredd/public_html/wp-includes/functions.php on line 8
+[28-May-2020 06:33:24 CST6CDT] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/option.php' (include_path='.:/usr/local/php56/pear') in /home/camredd/public_html/wp-includes/functions.php on line 8

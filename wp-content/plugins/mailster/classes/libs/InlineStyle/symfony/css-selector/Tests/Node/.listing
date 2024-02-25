@@ -1,0 +1,13 @@
+drwxr-xr-x    2 camredd    camredd          4096 Apr 23  2018 .
+drwxr-xr-x    5 camredd    camredd          4096 Apr 23  2018 ..
+-rw-r--r--    1 camredd    camredd           961 May 17  2018 AbstractNodeTest.php
+-rw-r--r--    1 camredd    camredd          1469 May 17  2018 AttributeNodeTest.php
+-rw-r--r--    1 camredd    camredd           872 May 17  2018 ClassNodeTest.php
+-rw-r--r--    1 camredd    camredd          1251 May 17  2018 CombinedSelectorNodeTest.php
+-rw-r--r--    1 camredd    camredd           962 May 17  2018 ElementNodeTest.php
+-rw-r--r--    1 camredd    camredd          1698 May 17  2018 FunctionNodeTest.php
+-rw-r--r--    1 camredd    camredd           854 May 17  2018 HashNodeTest.php
+-rw-r--r--    1 camredd    camredd           947 May 17  2018 NegationNodeTest.php
+-rw-r--r--    1 camredd    camredd           799 May 17  2018 PseudoNodeTest.php
+-rw-r--r--    1 camredd    camredd           948 May 17  2018 SelectorNodeTest.php
+-rw-r--r--    1 camredd    camredd          2167 May 17  2018 SpecificityTest.php

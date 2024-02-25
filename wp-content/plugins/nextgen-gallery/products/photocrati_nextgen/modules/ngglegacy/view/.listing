@@ -1,0 +1,11 @@
+drwxr-xr-x    2 camredd    camredd          4096 Oct 10  2017 .
+drwxr-xr-x   10 camredd    camredd          4096 Oct 10  2017 ..
+-rw-r--r--    1 camredd    camredd          3277 May 17  2018 album-compact.php
+-rw-r--r--    1 camredd    camredd          1842 May 17  2018 album-extend.php
+-rw-r--r--    1 camredd    camredd          1942 May 17  2018 gallery-caption.php
+-rw-r--r--    1 camredd    camredd          1933 May 17  2018 gallery-carousel.php
+-rw-r--r--    1 camredd    camredd          2180 May 17  2018 gallery.php
+-rw-r--r--    1 camredd    camredd          1763 May 17  2018 imagebrowser-caption.php
+-rw-r--r--    1 camredd    camredd          2819 May 17  2018 imagebrowser-exif.php
+-rw-r--r--    1 camredd    camredd          1780 May 17  2018 imagebrowser.php
+-rw-r--r--    1 camredd    camredd          1471 May 17  2018 singlepic.php

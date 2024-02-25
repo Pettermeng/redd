@@ -1,0 +1,6 @@
+[27-Dec-2019 02:25:49 CST6CDT] PHP Fatal error:  Call to undefined function plugin_basename() in /home/camredd/public_html/wp-content/plugins/contact-form-7/wp-contact-form-7.php on line 19
+[13-Mar-2020 09:46:52 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function plugin_basename() in /home/camredd/public_html/wp-content/plugins/contact-form-7/wp-contact-form-7.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/camredd/public_html/wp-content/plugins/contact-form-7/wp-contact-form-7.php on line 19
+[08-Jul-2020 11:45:35 CST6CDT] PHP Fatal error:  Call to undefined function plugin_basename() in /home/camredd/public_html/wp-content/plugins/contact-form-7/wp-contact-form-7.php on line 19

@@ -1,0 +1,9 @@
+drwxr-xr-x    4 camredd    camredd          4096 Oct 10  2017 .
+drwxr-xr-x    4 camredd    camredd          4096 Oct 10  2017 ..
+-rw-r--r--    1 camredd    camredd         62535 May 17  2018 Moxie.xap
+drwxr-xr-x    2 camredd    camredd          4096 Oct 10  2017 i18n
+drwxr-xr-x    4 camredd    camredd          4096 Oct 10  2017 jquery.plupload.queue
+-rw-r--r--    1 camredd    camredd        284767 May 17  2018 moxie.js
+-rw-r--r--    1 camredd    camredd         97698 May 17  2018 moxie.min.js
+-rw-r--r--    1 camredd    camredd         59414 May 17  2018 plupload.dev.js
+-rw-r--r--    1 camredd    camredd         15074 May 17  2018 plupload.dev.min.js

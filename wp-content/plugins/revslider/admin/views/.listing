@@ -1,0 +1,13 @@
+drwxr-xr-x    4 camredd    camredd          4096 Oct 10  2017 .
+drwxr-xr-x    4 camredd    camredd          4096 Oct 10  2017 ..
+-rw-r--r--    1 camredd    camredd         12909 May 17  2018 global-settings.php
+-rw-r--r--    1 camredd    camredd             0 May 17  2018 index.php
+-rw-r--r--    1 camredd    camredd         22617 May 17  2018 master-view.php
+-rw-r--r--    1 camredd    camredd         84163 May 17  2018 navigation-editor.php
+-rw-r--r--    1 camredd    camredd          8359 May 17  2018 rev_addon-admin-display.php
+-rw-r--r--    1 camredd    camredd         88700 May 17  2018 slide-editor.php
+-rw-r--r--    1 camredd    camredd          1289 May 17  2018 slide-overview.php
+-rw-r--r--    1 camredd    camredd           876 May 17  2018 slider-editor.php
+-rw-r--r--    1 camredd    camredd         40698 May 17  2018 slider-overview.php
+drwxr-xr-x    2 camredd    camredd          4096 Oct 10  2017 system
+drwxr-xr-x    2 camredd    camredd          4096 Oct 10  2017 templates

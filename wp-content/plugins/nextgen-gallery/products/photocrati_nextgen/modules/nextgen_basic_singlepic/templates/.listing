@@ -1,0 +1,8 @@
+drwxr-xr-x    2 camredd    camredd          4096 Oct 10  2017 .
+drwxr-xr-x    4 camredd    camredd          4096 Oct 10  2017 ..
+-rw-r--r--    1 camredd    camredd          3201 May 17  2018 nextgen_basic_singlepic.php
+-rw-r--r--    1 camredd    camredd          1127 May 17  2018 nextgen_basic_singlepic_settings_dimensions.php
+-rw-r--r--    1 camredd    camredd           503 May 17  2018 nextgen_basic_singlepic_settings_link.php
+-rw-r--r--    1 camredd    camredd           572 May 17  2018 nextgen_basic_singlepic_settings_quality.php
+-rw-r--r--    1 camredd    camredd          1214 May 17  2018 nextgen_basic_singlepic_settings_radio.php
+-rw-r--r--    1 camredd    camredd           813 May 17  2018 nextgen_basic_singlepic_settings_select.php

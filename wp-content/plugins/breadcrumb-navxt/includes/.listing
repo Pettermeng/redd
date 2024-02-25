@@ -1,0 +1,12 @@
+drwxr-xr-x    2 camredd    camredd          4096 Oct 10  2017 .
+drwxr-xr-x    4 camredd    camredd          4096 Oct 10  2017 ..
+-rw-r--r--    1 camredd    camredd          1077 May 17  2018 block_direct_access.php
+-rw-r--r--    1 camredd    camredd         42649 May 17  2018 class.mtekk_adminkit.php
+-rw-r--r--    1 camredd    camredd          2226 May 17  2018 class.mtekk_adminkit_uninstaller.php
+-rw-r--r--    1 camredd    camredd          1198 May 17  2018 mtekk_adminkit_engroups.js
+-rw-r--r--    1 camredd    camredd           999 May 17  2018 mtekk_adminkit_engroups.min.js
+-rw-r--r--    1 camredd    camredd          1287 May 17  2018 mtekk_adminkit_tabs.css
+-rw-r--r--    1 camredd    camredd          1464 May 17  2018 mtekk_adminkit_tabs.js
+-rw-r--r--    1 camredd    camredd          1214 May 17  2018 mtekk_adminkit_tabs.min.css
+-rw-r--r--    1 camredd    camredd          1019 May 17  2018 mtekk_adminkit_tabs.min.js
+-rw-r--r--    1 camredd    camredd          3411 May 17  2018 multibyte_supplicant.php

@@ -1,0 +1,31 @@
+[07-Apr-2019 15:28:35 CST6CDT] PHP Fatal error:  Call to undefined function get_header() in /home/camredd/public_html/wp-content/themes/Newspaper/index.php on line 11
+[10-Jul-2019 15:12:28 CST6CDT] PHP Fatal error:  Call to undefined function get_header() in /home/camredd/public_html/wp-content/themes/Newspaper/index.php on line 11
+[25-Aug-2019 21:16:10 CST6CDT] PHP Fatal error:  Call to undefined function get_header() in /home/camredd/public_html/wp-content/themes/Newspaper/index.php on line 11
+[31-Oct-2019 20:47:45 CST6CDT] PHP Fatal error:  Call to undefined function get_header() in /home/camredd/public_html/wp-content/themes/Newspaper/index.php on line 11
+[15-Nov-2019 13:09:54 CST6CDT] PHP Fatal error:  Class 'td_global' not found in /home/camredd/public_html/wp-content/themes/Newspaper/404.php on line 11
+[16-Nov-2019 00:17:22 CST6CDT] PHP Fatal error:  Class 'td_global' not found in /home/camredd/public_html/wp-content/themes/Newspaper/404.php on line 11
+[17-Nov-2019 08:45:39 CST6CDT] PHP Fatal error:  Class 'td_global' not found in /home/camredd/public_html/wp-content/themes/Newspaper/404.php on line 11
+[17-Nov-2019 19:54:54 CST6CDT] PHP Fatal error:  Class 'td_global' not found in /home/camredd/public_html/wp-content/themes/Newspaper/404.php on line 11
+[24-Nov-2019 22:25:53 CST6CDT] PHP Fatal error:  Call to undefined function get_header() in /home/camredd/public_html/wp-content/themes/Newspaper/index.php on line 11
+[12-Dec-2019 11:42:32 CST6CDT] PHP Fatal error:  Class 'td_global' not found in /home/camredd/public_html/wp-content/themes/Newspaper/404.php on line 11
+[13-Dec-2019 02:00:31 CST6CDT] PHP Fatal error:  Class 'td_global' not found in /home/camredd/public_html/wp-content/themes/Newspaper/404.php on line 11
+[14-Dec-2019 11:56:01 CST6CDT] PHP Fatal error:  Class 'td_global' not found in /home/camredd/public_html/wp-content/themes/Newspaper/404.php on line 11
+[15-Dec-2019 02:23:33 CST6CDT] PHP Fatal error:  Class 'td_global' not found in /home/camredd/public_html/wp-content/themes/Newspaper/404.php on line 11
+[08-Jan-2020 16:18:26 CST6CDT] PHP Fatal error:  Call to undefined function get_header() in /home/camredd/public_html/wp-content/themes/Newspaper/index.php on line 11
+[11-Jan-2020 16:03:33 CST6CDT] PHP Fatal error:  Class 'td_global' not found in /home/camredd/public_html/wp-content/themes/Newspaper/404.php on line 11
+[13-Jan-2020 04:31:49 CST6CDT] PHP Fatal error:  Class 'td_global' not found in /home/camredd/public_html/wp-content/themes/Newspaper/404.php on line 11
+[13-Jan-2020 22:35:17 CST6CDT] PHP Fatal error:  Call to undefined function get_header() in /home/camredd/public_html/wp-content/themes/Newspaper/index.php on line 11
+[14-Jan-2020 16:17:11 CST6CDT] PHP Fatal error:  Class 'td_global' not found in /home/camredd/public_html/wp-content/themes/Newspaper/404.php on line 11
+[15-Jan-2020 07:23:53 CST6CDT] PHP Fatal error:  Class 'td_global' not found in /home/camredd/public_html/wp-content/themes/Newspaper/404.php on line 11
+[10-Feb-2020 23:44:08 CST6CDT] PHP Fatal error:  Call to undefined function get_header() in /home/camredd/public_html/wp-content/themes/Newspaper/index.php on line 11
+[12-Mar-2020 06:06:16 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/camredd/public_html/wp-content/themes/Newspaper/index.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/camredd/public_html/wp-content/themes/Newspaper/index.php on line 11
+[16-Apr-2020 14:32:04 CST6CDT] PHP Fatal error:  Class 'td_global' not found in /home/camredd/public_html/wp-content/themes/Newspaper/404.php on line 11
+[17-Apr-2020 02:05:09 CST6CDT] PHP Fatal error:  Class 'td_global' not found in /home/camredd/public_html/wp-content/themes/Newspaper/404.php on line 11
+[24-Apr-2020 09:34:46 CST6CDT] PHP Fatal error:  Class 'td_global' not found in /home/camredd/public_html/wp-content/themes/Newspaper/404.php on line 11
+[24-Apr-2020 21:17:30 CST6CDT] PHP Fatal error:  Class 'td_global' not found in /home/camredd/public_html/wp-content/themes/Newspaper/404.php on line 11
+[11-May-2020 17:27:58 CST6CDT] PHP Fatal error:  Call to undefined function get_header() in /home/camredd/public_html/wp-content/themes/Newspaper/index.php on line 11
+[31-May-2020 00:20:25 CST6CDT] PHP Fatal error:  Call to undefined function get_header() in /home/camredd/public_html/wp-content/themes/Newspaper/index.php on line 11
+[11-Jul-2020 10:53:47 CST6CDT] PHP Fatal error:  Call to undefined function get_header() in /home/camredd/public_html/wp-content/themes/Newspaper/index.php on line 11

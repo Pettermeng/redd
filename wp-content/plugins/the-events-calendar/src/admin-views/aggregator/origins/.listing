@@ -1,0 +1,12 @@
+drwxr-xr-x    2 camredd    camredd          4096 Oct 10  2017 .
+drwxr-xr-x    5 camredd    camredd          4096 Oct 10  2017 ..
+-rw-r--r--    1 camredd    camredd          3712 May 17  2018 csv.php
+-rw-r--r--    1 camredd    camredd          1433 May 17  2018 eventbrite.php
+-rw-r--r--    1 camredd    camredd          6504 May 17  2018 facebook.php
+-rw-r--r--    1 camredd    camredd          6009 May 17  2018 gcal.php
+-rw-r--r--    1 camredd    camredd          5241 May 17  2018 ical.php
+-rw-r--r--    1 camredd    camredd          2749 May 17  2018 ics.php
+-rw-r--r--    1 camredd    camredd          1772 May 17  2018 limit.php
+-rw-r--r--    1 camredd    camredd          7482 May 17  2018 meetup.php
+-rw-r--r--    1 camredd    camredd          4490 May 17  2018 refine.php
+-rw-r--r--    1 camredd    camredd          6182 May 17  2018 url.php

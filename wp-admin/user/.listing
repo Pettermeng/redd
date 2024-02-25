@@ -1,0 +1,10 @@
+drwxr-xr-x    2 camredd    camredd          4096 Nov 17  2019 .
+drwxr-xr-x    9 camredd    camredd          4096 Mar 14 08:40 ..
+-rw-r--r--    1 camredd    camredd           263 Nov 17  2019 about.php
+-rw-r--r--    1 camredd    camredd           830 Nov 17  2019 admin.php
+-rw-r--r--    1 camredd    camredd           267 Nov 17  2019 credits.php
+-rw-r--r--    1 camredd    camredd           269 Nov 17  2019 freedoms.php
+-rw-r--r--    1 camredd    camredd           257 Nov 17  2019 index.php
+-rw-r--r--    1 camredd    camredd           694 Nov 17  2019 menu.php
+-rw-r--r--    1 camredd    camredd           258 Nov 17  2019 profile.php
+-rw-r--r--    1 camredd    camredd           256 Nov 17  2019 user-edit.php

@@ -1,0 +1,10 @@
+drwxr-xr-x    6 camredd    camredd          4096 Oct 10  2017 .
+drwxr-xr-x   43 camredd    camredd          4096 Apr 23  2018 ..
+drwxr-xr-x    2 camredd    camredd          4096 Oct 10  2017 css
+-rw-r--r--    1 camredd    camredd          6881 May 17  2018 filters-hooks-helper_funcitons.txt
+drwxr-xr-x    2 camredd    camredd          4096 Oct 10  2017 fonts
+drwxr-xr-x    2 camredd    camredd          4096 Oct 10  2017 js
+drwxr-xr-x    2 camredd    camredd          4096 Oct 10  2017 lang
+-rw-r--r--    1 camredd    camredd         18091 May 17  2018 license.txt
+-rw-r--r--    1 camredd    camredd        150183 May 17  2018 page_post_redirect_plugin.php
+-rw-r--r--    1 camredd    camredd         33774 May 17  2018 readme.txt

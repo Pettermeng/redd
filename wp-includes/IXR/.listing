@@ -1,0 +1,13 @@
+drwxr-xr-x    2 camredd    camredd          4096 Jun 14 07:57 .
+drwxr-xr-x   18 camredd    camredd         12288 Mar 14 08:40 ..
+-rw-r--r--    1 camredd    camredd           414 Nov 17  2019 class-IXR-base64.php
+-rw-r--r--    1 camredd    camredd          4643 Nov 17  2019 class-IXR-client.php
+-rw-r--r--    1 camredd    camredd           963 Nov 17  2019 class-IXR-clientmulticall.php
+-rw-r--r--    1 camredd    camredd          1679 Nov 17  2019 class-IXR-date.php
+-rw-r--r--    1 camredd    camredd           854 Nov 17  2019 class-IXR-error.php
+-rw-r--r--    1 camredd    camredd          5323 Nov 17  2019 class-IXR-introspectionserver.php
+-rw-r--r--    1 camredd    camredd          8011 Nov 17  2019 class-IXR-message.php
+-rw-r--r--    1 camredd    camredd           927 Nov 17  2019 class-IXR-request.php
+-rw-r--r--    1 camredd    camredd          6930 Nov 17  2019 class-IXR-server.php
+-rw-r--r--    1 camredd    camredd          3790 Nov 17  2019 class-IXR-value.php
+-rw-r--r--    1 camredd    camredd           331 Jun 14 14:54 php_errorlog

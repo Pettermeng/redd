@@ -1,0 +1,8 @@
+drwxr-xr-x    3 camredd    camredd          4096 Oct 10  2017 .
+drwxr-xr-x    4 camredd    camredd          4096 Oct 10  2017 ..
+-rw-r--r--    1 camredd    camredd        562916 May 17  2018 VC Icons.json
+-rw-r--r--    1 camredd    camredd           362 May 17  2018 aliases.less
+drwxr-xr-x    2 camredd    camredd          4096 Oct 10  2017 fonts
+-rw-r--r--    1 camredd    camredd           105 May 17  2018 init.less
+-rw-r--r--    1 camredd    camredd          4163 May 17  2018 style.less
+-rw-r--r--    1 camredd    camredd          1446 May 17  2018 variables.less

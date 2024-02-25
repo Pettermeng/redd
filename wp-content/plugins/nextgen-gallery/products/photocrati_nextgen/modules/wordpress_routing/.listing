@@ -1,0 +1,4 @@
+drwxr-xr-x    2 camredd    camredd          4096 Oct 10  2017 .
+drwxr-xr-x   37 camredd    camredd          4096 Oct 10  2017 ..
+-rw-r--r--    1 camredd    camredd          2928 May 17  2018 module.wordpress_routing.php
+-rw-r--r--    1 camredd    camredd          9368 May 17  2018 package.module.wordpress_routing.php

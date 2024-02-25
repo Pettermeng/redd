@@ -1,0 +1,4 @@
+[13-Jul-2020 06:34:04 CST6CDT] PHP Fatal error:  Interface 'SimplePie_Cache_Base' not found in /home/camredd/public_html/wp-includes/SimplePie/Cache/DB.php on line 52
+[13-Jul-2020 07:06:07 CST6CDT] PHP Fatal error:  Interface 'SimplePie_Cache_Base' not found in /home/camredd/public_html/wp-includes/SimplePie/Cache/File.php on line 52
+[15-Jul-2020 03:05:51 CST6CDT] PHP Fatal error:  Interface 'SimplePie_Cache_Base' not found in /home/camredd/public_html/wp-includes/SimplePie/Cache/Memcache.php on line 59
+[15-Jul-2020 04:12:07 CST6CDT] PHP Fatal error:  Class 'SimplePie_Cache_DB' not found in /home/camredd/public_html/wp-includes/SimplePie/Cache/MySQL.php on line 58

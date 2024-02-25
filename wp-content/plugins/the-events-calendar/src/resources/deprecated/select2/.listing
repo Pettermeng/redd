@@ -1,0 +1,11 @@
+drwxr-xr-x    2 camredd    camredd          4096 Oct 10  2017 .
+drwxr-xr-x    3 camredd    camredd          4096 Oct 10  2017 ..
+-rw-r--r--    1 camredd    camredd           618 May 17  2018 LICENSE
+-rw-r--r--    1 camredd    camredd          2814 May 17  2018 README.md
+-rw-r--r--    1 camredd    camredd          1145 May 17  2018 release.sh
+-rw-r--r--    1 camredd    camredd         17682 May 17  2018 select2.css
+-rw-r--r--    1 camredd    camredd         89827 May 17  2018 select2.js
+-rw-r--r--    1 camredd    camredd         35455 May 17  2018 select2.min.js
+-rw-r--r--    1 camredd    camredd           505 May 17  2018 select2.png
+-rw-r--r--    1 camredd    camredd           613 May 17  2018 select2x2.png
+-rw-r--r--    1 camredd    camredd          1434 May 17  2018 spinner.gif

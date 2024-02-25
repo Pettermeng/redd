@@ -1,0 +1,8 @@
+drwxr-xr-x    4 camredd    camredd          4096 Jan  9  2020 .
+drwxr-xr-x   18 camredd    camredd         12288 Mar 14 08:40 ..
+-rw-r--r--    1 camredd    camredd         24833 Nov 17  2019 class-wp-rest-request.php
+-rw-r--r--    1 camredd    camredd          7627 Nov 17  2019 class-wp-rest-response.php
+-rw-r--r--    1 camredd    camredd         38829 Nov 17  2019 class-wp-rest-server.php
+drwxr-xr-x    2 camredd    camredd          4096 Nov 17  2019 endpoints
+drwxr-xr-x    2 camredd    camredd          4096 Nov 17  2019 fields
+-rw-r--r--    1 camredd    camredd           172 Jan  9  2020 php_errorlog

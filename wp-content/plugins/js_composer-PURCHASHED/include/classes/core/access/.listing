@@ -1,0 +1,7 @@
+drwxr-xr-x    2 camredd    camredd          4096 Oct 10  2017 .
+drwxr-xr-x    4 camredd    camredd          4096 Oct 10  2017 ..
+-rw-r--r--    1 camredd    camredd          3389 May 17  2018 abstract-class-vc-access.php
+-rw-r--r--    1 camredd    camredd          1109 May 17  2018 class-vc-current-user-access-controller.php
+-rw-r--r--    1 camredd    camredd          2272 May 17  2018 class-vc-current-user-access.php
+-rw-r--r--    1 camredd    camredd          6222 May 17  2018 class-vc-role-access-controller.php
+-rw-r--r--    1 camredd    camredd          1798 May 17  2018 class-vc-role-access.php

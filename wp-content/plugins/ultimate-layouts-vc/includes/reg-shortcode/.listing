@@ -1,0 +1,9 @@
+drwxr-xr-x    3 camredd    camredd          4096 Oct 10  2017 .
+drwxr-xr-x    5 camredd    camredd          4096 Oct 10  2017 ..
+-rw-r--r--    1 camredd    camredd         42033 May 17  2018 elements.php
+-rw-r--r--    1 camredd    camredd         46154 May 17  2018 html-shortcode.php
+-rw-r--r--    1 camredd    camredd            32 May 17  2018 index.php
+drwxr-xr-x    3 camredd    camredd          4096 Oct 10  2017 layouts
+-rw-r--r--    1 camredd    camredd         74617 May 17  2018 reg-shortcode.php
+-rw-r--r--    1 camredd    camredd          1162 May 17  2018 single_post.php
+-rw-r--r--    1 camredd    camredd          1439 May 17  2018 single_woo.php

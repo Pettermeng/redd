@@ -1,0 +1,11 @@
+drwxr-xr-x    2 camredd    camredd          4096 Oct 10  2017 .
+drwxr-xr-x    4 camredd    camredd          4096 Oct 10  2017 ..
+-rw-r--r--    1 camredd    camredd          3945 May 17  2018 Category_Translation.php
+-rw-r--r--    1 camredd    camredd          3377 May 17  2018 Defaults.php
+-rw-r--r--    1 camredd    camredd          2834 May 17  2018 Filters.php
+-rw-r--r--    1 camredd    camredd          1720 May 17  2018 Language_Switcher.php
+-rw-r--r--    1 camredd    camredd         11335 May 17  2018 Linked_Posts.php
+-rw-r--r--    1 camredd    camredd          3439 May 17  2018 Permalinks.php
+-rw-r--r--    1 camredd    camredd          5998 May 17  2018 Rewrites.php
+-rw-r--r--    1 camredd    camredd          4221 May 17  2018 Utils.php
+-rw-r--r--    1 camredd    camredd          3335 May 17  2018 WPML.php

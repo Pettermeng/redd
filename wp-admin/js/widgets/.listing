@@ -1,0 +1,12 @@
+drwxr-xr-x    2 camredd    camredd          4096 Nov 17  2019 .
+drwxr-xr-x    3 camredd    camredd          4096 Nov 17  2019 ..
+-rw-r--r--    1 camredd    camredd          3871 Nov 17  2019 media-audio-widget.js
+-rw-r--r--    1 camredd    camredd          1440 Nov 17  2019 media-audio-widget.min.js
+-rw-r--r--    1 camredd    camredd          4396 Nov 17  2019 media-image-widget.js
+-rw-r--r--    1 camredd    camredd          1616 Nov 17  2019 media-image-widget.min.js
+-rw-r--r--    1 camredd    camredd          6351 Nov 17  2019 media-video-widget.js
+-rw-r--r--    1 camredd    camredd          2595 Nov 17  2019 media-video-widget.min.js
+-rw-r--r--    1 camredd    camredd         38918 Nov 17  2019 media-widgets.js
+-rw-r--r--    1 camredd    camredd         13224 Nov 17  2019 media-widgets.min.js
+-rw-r--r--    1 camredd    camredd         17232 Nov 17  2019 text-widgets.js
+-rw-r--r--    1 camredd    camredd          5697 Nov 17  2019 text-widgets.min.js

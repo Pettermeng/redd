@@ -1,0 +1,15 @@
+drwxr-xr-x    2 camredd    camredd          4096 Oct 10  2017 .
+drwxr-xr-x    7 camredd    camredd          4096 Oct 10  2017 ..
+-rw-r--r--    1 camredd    camredd          1589 May 17  2018 class-fs-billing.php
+-rw-r--r--    1 camredd    camredd          2964 May 17  2018 class-fs-entity.php
+-rw-r--r--    1 camredd    camredd          1594 May 17  2018 class-fs-payment.php
+-rw-r--r--    1 camredd    camredd           746 May 17  2018 class-fs-plugin-info.php
+-rw-r--r--    1 camredd    camredd          4447 May 17  2018 class-fs-plugin-license.php
+-rw-r--r--    1 camredd    camredd          2884 May 17  2018 class-fs-plugin-plan.php
+-rw-r--r--    1 camredd    camredd           473 May 17  2018 class-fs-plugin-tag.php
+-rw-r--r--    1 camredd    camredd          1664 May 17  2018 class-fs-plugin.php
+-rw-r--r--    1 camredd    camredd          2732 May 17  2018 class-fs-pricing.php
+-rw-r--r--    1 camredd    camredd           565 May 17  2018 class-fs-scope-entity.php
+-rw-r--r--    1 camredd    camredd          2862 May 17  2018 class-fs-site.php
+-rw-r--r--    1 camredd    camredd          2378 May 17  2018 class-fs-subscription.php
+-rw-r--r--    1 camredd    camredd          1149 May 17  2018 class-fs-user.php

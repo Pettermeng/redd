@@ -1,0 +1,14 @@
+drwxr-xr-x    4 camredd    camredd          4096 Oct 10  2017 .
+drwxr-xr-x    4 camredd    camredd          4096 Oct 10  2017 ..
+-rw-r--r--    1 camredd    camredd         84145 May 17  2018 common.js
+-rw-r--r--    1 camredd    camredd         79201 May 17  2018 common.min.js
+drwxr-xr-x    2 camredd    camredd          4096 Oct 10  2017 fontawesome
+drwxr-xr-x    2 camredd    camredd          4096 Oct 10  2017 fonts
+-rw-r--r--    1 camredd    camredd          1262 May 17  2018 nextgen_gallery_display_settings.css
+-rw-r--r--    1 camredd    camredd           250 May 17  2018 nextgen_gallery_display_settings.js
+-rw-r--r--    1 camredd    camredd           939 May 17  2018 nextgen_gallery_display_settings.min.css
+-rw-r--r--    1 camredd    camredd           178 May 17  2018 nextgen_gallery_display_settings.min.js
+-rw-r--r--    1 camredd    camredd           409 May 17  2018 nextgen_gallery_related_images.css
+-rw-r--r--    1 camredd    camredd           285 May 17  2018 nextgen_gallery_related_images.min.css
+-rw-r--r--    1 camredd    camredd           936 May 17  2018 trigger_buttons.css
+-rw-r--r--    1 camredd    camredd           639 May 17  2018 trigger_buttons.min.css

@@ -1,0 +1,9 @@
+drwxr-xr-x    2 camredd    camredd          4096 Apr  6  2018 .
+drwxr-xr-x    9 camredd    camredd          4096 Apr  6  2018 ..
+-rw-r--r--    1 camredd    camredd          4681 May 17  2018 frontend-dashboard.php
+-rw-r--r--    1 camredd    camredd         34086 May 17  2018 frontend-form-post.php
+-rw-r--r--    1 camredd    camredd         17803 May 17  2018 payment.php
+-rw-r--r--    1 camredd    camredd         57779 May 17  2018 render-form.php
+-rw-r--r--    1 camredd    camredd         41932 May 17  2018 subscription.php
+-rw-r--r--    1 camredd    camredd          3215 May 17  2018 upgrades.php
+-rw-r--r--    1 camredd    camredd          7321 May 17  2018 upload.php

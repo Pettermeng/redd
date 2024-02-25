@@ -1,0 +1,15 @@
+drwxr-xr-x    2 camredd    camredd          4096 Oct 10  2017 .
+drwxr-xr-x   11 camredd    camredd          4096 Oct 10  2017 ..
+-rw-r--r--    1 camredd    camredd          1643 May 17  2018 shortcode-vc-wp-archives.php
+-rw-r--r--    1 camredd    camredd          1253 May 17  2018 shortcode-vc-wp-calendar.php
+-rw-r--r--    1 camredd    camredd          1708 May 17  2018 shortcode-vc-wp-categories.php
+-rw-r--r--    1 camredd    camredd          2144 May 17  2018 shortcode-vc-wp-custommenu.php
+-rw-r--r--    1 camredd    camredd          2629 May 17  2018 shortcode-vc-wp-links.php
+-rw-r--r--    1 camredd    camredd          1287 May 17  2018 shortcode-vc-wp-meta.php
+-rw-r--r--    1 camredd    camredd          1943 May 17  2018 shortcode-vc-wp-pages.php
+-rw-r--r--    1 camredd    camredd          1825 May 17  2018 shortcode-vc-wp-posts.php
+-rw-r--r--    1 camredd    camredd          1560 May 17  2018 shortcode-vc-wp-recentcomments.php
+-rw-r--r--    1 camredd    camredd          2375 May 17  2018 shortcode-vc-wp-rss.php
+-rw-r--r--    1 camredd    camredd          1246 May 17  2018 shortcode-vc-wp-search.php
+-rw-r--r--    1 camredd    camredd          2090 May 17  2018 shortcode-vc-wp-tagcloud.php
+-rw-r--r--    1 camredd    camredd          1384 May 17  2018 shortcode-vc-wp-text.php

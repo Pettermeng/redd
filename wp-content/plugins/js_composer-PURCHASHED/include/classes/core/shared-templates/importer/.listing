@@ -1,0 +1,5 @@
+drwxr-xr-x    2 camredd    camredd          4096 Oct 10  2017 .
+drwxr-xr-x    3 camredd    camredd          4096 Oct 10  2017 ..
+-rw-r--r--    1 camredd    camredd         25335 May 17  2018 parsers.php
+-rw-r--r--    1 camredd    camredd          5093 May 17  2018 plugin.php
+-rw-r--r--    1 camredd    camredd         20485 May 17  2018 wordpress-importer.php

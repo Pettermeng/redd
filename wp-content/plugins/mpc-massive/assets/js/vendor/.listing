@@ -1,0 +1,9 @@
+drwxr-xr-x    2 camredd    camredd          4096 Apr  6  2018 .
+drwxr-xr-x    5 camredd    camredd          4096 Apr  6  2018 ..
+-rw-r--r--    1 camredd    camredd          3392 May 17  2018 globals.js
+-rw-r--r--    1 camredd    camredd          6955 May 17  2018 imagesloaded.pkgd.min.js
+-rw-r--r--    1 camredd    camredd         12616 May 17  2018 skrollr.min.js
+-rw-r--r--    1 camredd    camredd         34859 May 17  2018 velocity.base.min.js
+-rw-r--r--    1 camredd    camredd         13258 May 17  2018 velocity.ui.min.js
+-rw-r--r--    1 camredd    camredd          8982 May 17  2018 waypoints.base.min.js
+-rw-r--r--    1 camredd    camredd          1782 May 17  2018 waypoints.inview.min.js

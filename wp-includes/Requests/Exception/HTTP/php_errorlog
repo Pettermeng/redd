@@ -1,0 +1,1 @@
+[21-Dec-2019 16:00:32 CST6CDT] PHP Fatal error:  Class 'Requests_Exception_HTTP' not found in /home/camredd/public_html/wp-includes/Requests/Exception/HTTP/431.php on line 15

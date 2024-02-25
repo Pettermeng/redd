@@ -1,0 +1,4 @@
+drwxr-xr-x    2 camredd    camredd          4096 Oct 10  2017 .
+drwxr-xr-x    8 camredd    camredd          4096 Oct 10  2017 ..
+-rw-r--r--    1 camredd    camredd          5032 Oct 10  2017 td_get_cpt_settings_by_post_type.php
+-rw-r--r--    1 camredd    camredd          2697 Oct 10  2017 td_get_tax_settings_by_tax_name.php

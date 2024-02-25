@@ -1,0 +1,16 @@
+drwxr-xr-x    2 camredd    camredd          4096 Oct 10  2017 .
+drwxr-xr-x   10 camredd    camredd          4096 Oct 10  2017 ..
+-rw-r--r--    1 camredd    camredd         13451 May 17  2018 ClassLoader.php
+-rw-r--r--    1 camredd    camredd          6245 May 17  2018 ClassLoader52.php
+-rw-r--r--    1 camredd    camredd          1070 May 17  2018 LICENSE
+-rw-r--r--    1 camredd    camredd          2395 May 17  2018 autoload_classmap.php
+-rw-r--r--    1 camredd    camredd           156 May 17  2018 autoload_commands_classmap.php
+-rw-r--r--    1 camredd    camredd           999 May 17  2018 autoload_commands_real.php
+-rw-r--r--    1 camredd    camredd          2426 May 17  2018 autoload_framework_classmap.php
+-rw-r--r--    1 camredd    camredd          1001 May 17  2018 autoload_framework_real.php
+-rw-r--r--    1 camredd    camredd           286 May 17  2018 autoload_namespaces.php
+-rw-r--r--    1 camredd    camredd           143 May 17  2018 autoload_psr4.php
+-rw-r--r--    1 camredd    camredd          1762 May 17  2018 autoload_real.php
+-rw-r--r--    1 camredd    camredd          1180 May 17  2018 autoload_real_52.php
+-rw-r--r--    1 camredd    camredd          3397 May 17  2018 autoload_static.php
+-rw-r--r--    1 camredd    camredd          2492 May 17  2018 installed.json

@@ -1,0 +1,10 @@
+drwxr-xr-x    2 camredd    camredd          4096 Nov 17  2019 .
+drwxr-xr-x   11 camredd    camredd          4096 Nov 17  2019 ..
+-rw-r--r--    1 camredd    camredd         16189 Nov 17  2019 handlers.js
+-rw-r--r--    1 camredd    camredd         10551 Nov 17  2019 handlers.min.js
+-rw-r--r--    1 camredd    camredd         17987 Nov 17  2019 license.txt
+-rw-r--r--    1 camredd    camredd         29570 Nov 17  2019 plupload.flash.swf
+-rw-r--r--    1 camredd    camredd        113081 Nov 17  2019 plupload.full.min.js
+-rw-r--r--    1 camredd    camredd         63118 Nov 17  2019 plupload.silverlight.xap
+-rw-r--r--    1 camredd    camredd         12696 Nov 17  2019 wp-plupload.js
+-rw-r--r--    1 camredd    camredd          4920 Nov 17  2019 wp-plupload.min.js

@@ -1,0 +1,10 @@
+drwxr-xr-x    2 camredd    camredd          4096 Oct 10  2017 .
+drwxr-xr-x    5 camredd    camredd          4096 Oct 10  2017 ..
+-rw-r--r--    1 camredd    camredd         12398 May 17  2018 vc_tta-colors.less
+-rw-r--r--    1 camredd    camredd         18003 May 17  2018 vc_tta-core.less
+-rw-r--r--    1 camredd    camredd          4146 May 17  2018 vc_tta-frontend-editor.less
+-rw-r--r--    1 camredd    camredd          4623 May 17  2018 vc_tta-icon-controls.less
+-rw-r--r--    1 camredd    camredd         11707 May 17  2018 vc_tta-mixins.less
+-rw-r--r--    1 camredd    camredd         22792 May 17  2018 vc_tta-options.less
+-rw-r--r--    1 camredd    camredd           269 May 17  2018 vc_tta-pagination.less
+-rw-r--r--    1 camredd    camredd          6907 May 17  2018 vc_tta-variables.less

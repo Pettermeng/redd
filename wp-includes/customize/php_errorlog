@@ -1,0 +1,16 @@
+[10-Jan-2020 15:25:14 CST6CDT] PHP Fatal error:  Class 'WP_Customize_Upload_Control' not found in /home/camredd/public_html/wp-includes/customize/class-wp-customize-image-control.php on line 17
+[11-Jan-2020 01:03:06 CST6CDT] PHP Fatal error:  Class 'WP_Customize_Setting' not found in /home/camredd/public_html/wp-includes/customize/class-wp-customize-filter-setting.php on line 19
+[11-Jan-2020 04:21:36 CST6CDT] PHP Fatal error:  Class 'WP_Customize_Panel' not found in /home/camredd/public_html/wp-includes/customize/class-wp-customize-nav-menus-panel.php on line 19
+[11-Jan-2020 09:52:56 CST6CDT] PHP Fatal error:  Class 'WP_Customize_Section' not found in /home/camredd/public_html/wp-includes/customize/class-wp-customize-sidebar-section.php on line 17
+[11-Jan-2020 19:11:33 CST6CDT] PHP Fatal error:  Class 'WP_Customize_Control' not found in /home/camredd/public_html/wp-includes/customize/class-wp-customize-media-control.php on line 17
+[11-Jan-2020 19:49:25 CST6CDT] PHP Fatal error:  Class 'WP_Customize_Control' not found in /home/camredd/public_html/wp-includes/customize/class-wp-customize-theme-control.php on line 17
+[11-Jan-2020 20:36:45 CST6CDT] PHP Fatal error:  Class 'WP_Customize_Control' not found in /home/camredd/public_html/wp-includes/customize/class-wp-customize-color-control.php on line 17
+[12-Jan-2020 09:04:41 CST6CDT] PHP Fatal error:  Class 'WP_Customize_Section' not found in /home/camredd/public_html/wp-includes/customize/class-wp-customize-themes-section.php on line 19
+[12-Jan-2020 11:07:46 CST6CDT] PHP Fatal error:  Class 'WP_Customize_Media_Control' not found in /home/camredd/public_html/wp-includes/customize/class-wp-customize-upload-control.php on line 17
+[12-Jan-2020 18:13:51 CST6CDT] PHP Fatal error:  Class 'WP_Customize_Section' not found in /home/camredd/public_html/wp-includes/customize/class-wp-customize-nav-menu-section.php on line 19
+[12-Jan-2020 21:43:53 CST6CDT] PHP Fatal error:  Class 'WP_Customize_Setting' not found in /home/camredd/public_html/wp-includes/customize/class-wp-customize-nav-menu-setting.php on line 21
+[12-Jan-2020 23:16:49 CST6CDT] PHP Fatal error:  Class 'WP_Customize_Control' not found in /home/camredd/public_html/wp-includes/customize/class-wp-customize-nav-menu-control.php on line 15
+[12-Jan-2020 23:54:41 CST6CDT] PHP Fatal error:  Class 'WP_Customize_Section' not found in /home/camredd/public_html/wp-includes/customize/class-wp-customize-new-menu-section.php on line 19
+[13-Jan-2020 13:00:32 CST6CDT] PHP Fatal error:  Class 'WP_Customize_Control' not found in /home/camredd/public_html/wp-includes/customize/class-wp-customize-new-menu-control.php on line 17
+[15-Jan-2020 01:26:39 CST6CDT] PHP Fatal error:  Class 'WP_Customize_Cropped_Image_Control' not found in /home/camredd/public_html/wp-includes/customize/class-wp-customize-site-icon-control.php on line 19
+[15-Jan-2020 06:06:11 CST6CDT] PHP Fatal error:  Class 'WP_Customize_Control' not found in /home/camredd/public_html/wp-includes/customize/class-wp-widget-area-customize-control.php on line 17

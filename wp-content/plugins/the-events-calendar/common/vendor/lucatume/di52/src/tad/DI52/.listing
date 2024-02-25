@@ -1,0 +1,15 @@
+drwxr-xr-x    3 camredd    camredd          4096 Oct 10  2017 .
+drwxr-xr-x    3 camredd    camredd          4096 Oct 10  2017 ..
+-rw-r--r--    1 camredd    camredd          1368 May 17  2018 Arg.php
+drwxr-xr-x    2 camredd    camredd          4096 Oct 10  2017 Bindings
+-rw-r--r--    1 camredd    camredd          9959 May 17  2018 Container.php
+-rw-r--r--    1 camredd    camredd          3852 May 17  2018 Ctor.php
+-rw-r--r--    1 camredd    camredd           455 May 17  2018 NewInstanceArgValue.php
+-rw-r--r--    1 camredd    camredd           249 May 17  2018 RealArgValue.php
+-rw-r--r--    1 camredd    camredd           269 May 17  2018 ReferredArgValue.php
+-rw-r--r--    1 camredd    camredd           172 May 17  2018 ReferredInstanceArgValue.php
+-rw-r--r--    1 camredd    camredd           168 May 17  2018 ReferredVarArgValue.php
+-rw-r--r--    1 camredd    camredd           926 May 17  2018 ServiceProvider.php
+-rw-r--r--    1 camredd    camredd           423 May 17  2018 ServiceProviderInterface.php
+-rw-r--r--    1 camredd    camredd           583 May 17  2018 Singleton.php
+-rw-r--r--    1 camredd    camredd           895 May 17  2018 Var.php

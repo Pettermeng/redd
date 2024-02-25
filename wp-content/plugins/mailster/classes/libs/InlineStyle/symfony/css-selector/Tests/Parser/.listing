@@ -1,0 +1,7 @@
+drwxr-xr-x    4 camredd    camredd          4096 Apr 23  2018 .
+drwxr-xr-x    5 camredd    camredd          4096 Apr 23  2018 ..
+drwxr-xr-x    2 camredd    camredd          4096 Apr 23  2018 Handler
+-rw-r--r--    1 camredd    camredd         12964 May 17  2018 ParserTest.php
+-rw-r--r--    1 camredd    camredd          2942 May 17  2018 ReaderTest.php
+drwxr-xr-x    2 camredd    camredd          4096 Apr 23  2018 Shortcut
+-rw-r--r--    1 camredd    camredd          3185 May 17  2018 TokenStreamTest.php

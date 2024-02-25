@@ -1,0 +1,17 @@
+[21-Dec-2019 15:23:13 CST6CDT] PHP Fatal error:  Class 'WP_Widget' not found in /home/camredd/public_html/wp-includes/widgets/class-wp-widget-links.php on line 17
+[09-Jan-2020 00:11:37 CST6CDT] PHP Fatal error:  Class 'WP_Widget' not found in /home/camredd/public_html/wp-includes/widgets/class-wp-widget-media.php on line 17
+[09-Jan-2020 01:21:10 CST6CDT] PHP Fatal error:  Class 'WP_Widget' not found in /home/camredd/public_html/wp-includes/widgets/class-wp-widget-search.php on line 17
+[09-Jan-2020 06:01:50 CST6CDT] PHP Fatal error:  Class 'WP_Widget' not found in /home/camredd/public_html/wp-includes/widgets/class-wp-widget-calendar.php on line 17
+[09-Jan-2020 10:17:26 CST6CDT] PHP Fatal error:  Class 'WP_Widget' not found in /home/camredd/public_html/wp-includes/widgets/class-wp-widget-archives.php on line 17
+[09-Jan-2020 11:33:12 CST6CDT] PHP Fatal error:  Class 'WP_Widget' not found in /home/camredd/public_html/wp-includes/widgets/class-wp-widget-tag-cloud.php on line 17
+[09-Jan-2020 12:20:31 CST6CDT] PHP Fatal error:  Class 'WP_Widget_Media' not found in /home/camredd/public_html/wp-includes/widgets/class-wp-widget-media-image.php on line 17
+[09-Jan-2020 16:17:11 CST6CDT] PHP Fatal error:  Class 'WP_Widget' not found in /home/camredd/public_html/wp-includes/widgets/class-wp-widget-categories.php on line 17
+[09-Jan-2020 19:07:36 CST6CDT] PHP Fatal error:  Class 'WP_Widget' not found in /home/camredd/public_html/wp-includes/widgets/class-wp-widget-recent-posts.php on line 17
+[10-Jan-2020 07:02:58 CST6CDT] PHP Fatal error:  Class 'WP_Widget' not found in /home/camredd/public_html/wp-includes/widgets/class-wp-widget-recent-comments.php on line 17
+[10-Jan-2020 09:06:34 CST6CDT] PHP Fatal error:  Class 'WP_Widget' not found in /home/camredd/public_html/wp-includes/widgets/class-wp-widget-rss.php on line 17
+[10-Jan-2020 09:25:30 CST6CDT] PHP Fatal error:  Class 'WP_Widget' not found in /home/camredd/public_html/wp-includes/widgets/class-wp-widget-meta.php on line 19
+[10-Jan-2020 09:34:58 CST6CDT] PHP Fatal error:  Class 'WP_Widget' not found in /home/camredd/public_html/wp-includes/widgets/class-wp-widget-text.php on line 17
+[10-Jan-2020 09:44:26 CST6CDT] PHP Fatal error:  Class 'WP_Widget' not found in /home/camredd/public_html/wp-includes/widgets/class-wp-widget-pages.php on line 17
+[10-Jan-2020 09:53:54 CST6CDT] PHP Fatal error:  Class 'WP_Widget' not found in /home/camredd/public_html/wp-includes/widgets/class-wp-widget-links.php on line 17
+[10-Jan-2020 19:31:26 CST6CDT] PHP Fatal error:  Class 'WP_Widget_Media' not found in /home/camredd/public_html/wp-includes/widgets/class-wp-widget-media-video.php on line 17
+[10-Jan-2020 20:24:34 CST6CDT] PHP Fatal error:  Class 'WP_Widget_Media' not found in /home/camredd/public_html/wp-includes/widgets/class-wp-widget-media-audio.php on line 17

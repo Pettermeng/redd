@@ -1,0 +1,8 @@
+drwxr-xr-x    2 camredd    camredd          4096 Oct 10  2017 .
+drwxr-xr-x    4 camredd    camredd          4096 Oct 10  2017 ..
+-rw-r--r--    1 camredd    camredd          1354 May 17  2018 display_gallery.php
+-rw-r--r--    1 camredd    camredd           565 May 17  2018 display_mediarss.php
+-rw-r--r--    1 camredd    camredd           193 May 17  2018 display_slideshow.php
+-rw-r--r--    1 camredd    camredd          4578 May 17  2018 form_gallery.php
+-rw-r--r--    1 camredd    camredd          2092 May 17  2018 form_mediarss.php
+-rw-r--r--    1 camredd    camredd          3041 May 17  2018 form_slideshow.php

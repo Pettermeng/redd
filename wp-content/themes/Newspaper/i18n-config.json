@@ -1,0 +1,11 @@
+{
+	"front-config":{
+		"all-pages": {
+			"filters": {
+				"text": {
+					"bbp_get_forum_content":"20"
+				}
+			}
+		}
+	}
+}

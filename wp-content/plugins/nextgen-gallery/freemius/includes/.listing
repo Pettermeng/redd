@@ -1,0 +1,17 @@
+drwxr-xr-x    7 camredd    camredd          4096 Oct 10  2017 .
+drwxr-xr-x    6 camredd    camredd          4096 Oct 10  2017 ..
+-rw-r--r--    1 camredd    camredd         12512 May 17  2018 class-freemius-abstract.php
+-rw-r--r--    1 camredd    camredd        319212 May 17  2018 class-freemius.php
+-rw-r--r--    1 camredd    camredd         15172 May 17  2018 class-fs-api.php
+-rw-r--r--    1 camredd    camredd          5428 May 17  2018 class-fs-logger.php
+-rw-r--r--    1 camredd    camredd          9438 May 17  2018 class-fs-plugin-updater.php
+-rw-r--r--    1 camredd    camredd          1757 May 17  2018 class-fs-security.php
+drwxr-xr-x    2 camredd    camredd          4096 Oct 10  2017 debug
+drwxr-xr-x    2 camredd    camredd          4096 Oct 10  2017 entities
+-rw-r--r--    1 camredd    camredd         14703 May 17  2018 fs-core-functions.php
+-rw-r--r--    1 camredd    camredd         12479 May 17  2018 fs-essential-functions.php
+-rw-r--r--    1 camredd    camredd         33103 May 17  2018 fs-plugin-info-dialog.php
+-rw-r--r--    1 camredd    camredd         42428 May 17  2018 i18n.php
+drwxr-xr-x    2 camredd    camredd          4096 Oct 10  2017 managers
+drwxr-xr-x    3 camredd    camredd          4096 Oct 10  2017 sdk
+drwxr-xr-x    2 camredd    camredd          4096 Oct 10  2017 supplements

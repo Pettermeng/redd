@@ -1,0 +1,11 @@
+drwxr-xr-x    2 camredd    camredd          4096 Nov 17  2019 .
+drwxr-xr-x   18 camredd    camredd         12288 Mar 14 08:40 ..
+-rw-r--r--    1 camredd    camredd          2106 Nov 17  2019 comments.php
+-rw-r--r--    1 camredd    camredd           964 Nov 17  2019 embed-404.php
+-rw-r--r--    1 camredd    camredd          3192 Nov 17  2019 embed-content.php
+-rw-r--r--    1 camredd    camredd           473 Nov 17  2019 embed.php
+-rw-r--r--    1 camredd    camredd           432 Nov 17  2019 footer-embed.php
+-rw-r--r--    1 camredd    camredd          1035 Nov 17  2019 footer.php
+-rw-r--r--    1 camredd    camredd           698 Nov 17  2019 header-embed.php
+-rw-r--r--    1 camredd    camredd          1887 Nov 17  2019 header.php
+-rw-r--r--    1 camredd    camredd          4054 Nov 17  2019 sidebar.php

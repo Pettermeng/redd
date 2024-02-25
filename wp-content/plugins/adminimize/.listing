@@ -1,0 +1,10 @@
+drwxr-xr-x    6 camredd    camredd          4096 Mar 14  2018 .
+drwxr-xr-x   43 camredd    camredd          4096 Apr 23  2018 ..
+-rw-r--r--    1 camredd    camredd         35147 May 17  2018 LICENSE.txt
+-rw-r--r--    1 camredd    camredd         53212 May 17  2018 adminimize.php
+-rw-r--r--    1 camredd    camredd          6326 May 17  2018 adminimize_page.php
+drwxr-xr-x    2 camredd    camredd          4096 Mar 14  2018 css
+drwxr-xr-x    2 camredd    camredd          4096 Mar 14  2018 inc-options
+drwxr-xr-x    2 camredd    camredd          4096 Mar 14  2018 inc-setup
+drwxr-xr-x    2 camredd    camredd          4096 Mar 14  2018 js
+-rw-r--r--    1 camredd    camredd         21773 May 17  2018 readme.txt

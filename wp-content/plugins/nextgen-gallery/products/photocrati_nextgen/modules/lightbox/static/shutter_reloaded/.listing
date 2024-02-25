@@ -1,0 +1,9 @@
+drwxr-xr-x    3 camredd    camredd          4096 Oct 10  2017 .
+drwxr-xr-x    6 camredd    camredd          4096 Oct 10  2017 ..
+drwxr-xr-x    2 camredd    camredd          4096 Oct 10  2017 images
+-rw-r--r--    1 camredd    camredd           531 May 17  2018 nextgen_shutter_reloaded.js
+-rw-r--r--    1 camredd    camredd           341 May 17  2018 nextgen_shutter_reloaded.min.js
+-rw-r--r--    1 camredd    camredd          2100 May 17  2018 shutter.css
+-rw-r--r--    1 camredd    camredd         12686 May 17  2018 shutter.js
+-rw-r--r--    1 camredd    camredd          1158 May 17  2018 shutter.min.css
+-rw-r--r--    1 camredd    camredd          7094 May 17  2018 shutter.min.js

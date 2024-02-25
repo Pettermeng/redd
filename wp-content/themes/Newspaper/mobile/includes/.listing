@@ -1,0 +1,14 @@
+drwxr-xr-x    8 camredd    camredd          4096 Oct 10  2017 .
+drwxr-xr-x    7 camredd    camredd          4096 Oct 10  2017 ..
+drwxr-xr-x    2 camredd    camredd          4096 Oct 10  2017 category_templates
+drwxr-xr-x    2 camredd    camredd          4096 Oct 10  2017 category_top_posts_styles
+drwxr-xr-x    2 camredd    camredd          4096 Oct 10  2017 less_files
+drwxr-xr-x    2 camredd    camredd          4096 Oct 10  2017 modules
+drwxr-xr-x    2 camredd    camredd          4096 Oct 10  2017 shortcodes
+drwxr-xr-x    2 camredd    camredd          4096 Oct 10  2017 smart_lists
+-rw-r--r--    1 camredd    camredd          2222 Oct 10  2017 td_ajax_mob.php
+-rw-r--r--    1 camredd    camredd         14163 Oct 10  2017 td_config_mob.php
+-rw-r--r--    1 camredd    camredd          7644 Oct 10  2017 td_css_generator_mob.php
+-rw-r--r--    1 camredd    camredd           554 Oct 10  2017 td_global_mob.php
+-rw-r--r--    1 camredd    camredd          3668 Oct 10  2017 td_js_generator_mob.php
+-rw-r--r--    1 camredd    camredd          4058 Oct 10  2017 td_page_generator_mob.php

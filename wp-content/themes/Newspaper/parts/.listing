@@ -1,0 +1,11 @@
+drwxr-xr-x    4 camredd    camredd          4096 Oct 10  2017 .
+drwxr-xr-x   12 camredd    camredd          4096 Nov 25  2019 ..
+drwxr-xr-x    2 camredd    camredd          4096 Oct 10  2017 footer
+drwxr-xr-x    2 camredd    camredd          4096 Oct 10  2017 header
+-rw-r--r--    1 camredd    camredd           532 Oct 10  2017 logged.php
+-rw-r--r--    1 camredd    camredd           786 Oct 10  2017 login.php
+-rw-r--r--    1 camredd    camredd          3014 Oct 10  2017 menu-mobile.php
+-rw-r--r--    1 camredd    camredd          1982 Oct 10  2017 page-author-box.php
+-rw-r--r--    1 camredd    camredd          1322 Oct 10  2017 page-search-box.php
+-rw-r--r--    1 camredd    camredd          4680 Oct 10  2017 register.php
+-rw-r--r--    1 camredd    camredd           694 Oct 10  2017 search.php

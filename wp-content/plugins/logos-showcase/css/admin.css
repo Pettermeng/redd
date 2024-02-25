@@ -1,0 +1,47 @@
+.post-type-lshowcase #postimagediv img {
+	max-width:200px;
+}
+
+
+#lshowcase_admin_table,
+#lshowcase_admin_table_spacing
+ {
+	width:100%;
+}
+
+#lshowcase_admin_table td {
+	padding:0 10px;
+	vertical-align: top;
+}
+
+#lshowcase_admin_table th {
+	text-align: left;
+	padding:0 10px;
+}
+
+#lshowcase_admin_table_spacing input {
+	width:60px;
+}
+
+#lshowcase_admin_table_spacing td {
+	padding:0 5px;
+	vertical-align: top;
+}
+
+#lshowcase_admin_table_spacing .howto {
+	padding:15px 0px;
+	vertical-align: top;
+}
+
+#available-widgets [class*=lshowcase] .widget-title:before{content:"\f180"}
+
+#shortcode_div, 
+#phpcode_div {
+	padding:10px; 
+	background-color:#fff;
+	border-left:4px solid #7ad03a;
+	-webkit-box-shadow:0 1px 1px 0 rgba(0,0,0,.1);
+	box-shadow:0 1px 1px 0 rgba(0,0,0,.1); 
+	display:block;
+	margin:10px 0px;
+}

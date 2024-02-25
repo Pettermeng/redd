@@ -1,0 +1,10 @@
+drwxr-xr-x    6 camredd    camredd          4096 Oct 10  2017 .
+drwxr-xr-x    6 camredd    camredd          4096 Oct 10  2017 ..
+-rw-r--r--    1 camredd    camredd         18367 May 17  2018 LICENSE.txt
+drwxr-xr-x    6 camredd    camredd          4096 Oct 10  2017 assets
+-rw-r--r--    1 camredd    camredd         10441 May 17  2018 config.php
+drwxr-xr-x    7 camredd    camredd          4096 Oct 10  2017 includes
+drwxr-xr-x    2 camredd    camredd          4096 Oct 10  2017 languages
+-rw-r--r--    1 camredd    camredd          2517 May 17  2018 require.php
+-rw-r--r--    1 camredd    camredd         11157 May 17  2018 start.php
+drwxr-xr-x    5 camredd    camredd          4096 Oct 10  2017 templates

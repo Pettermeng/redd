@@ -1,0 +1,5 @@
+drwxr-xr-x    3 camredd    camredd          4096 Oct 10  2017 .
+drwxr-xr-x    5 camredd    camredd          4096 Oct 10  2017 ..
+drwxr-xr-x    2 camredd    camredd          4096 Oct 10  2017 partials
+-rw-r--r--    1 camredd    camredd          2471 May 17  2018 vc_grid_item_editor.tpl.php
+-rw-r--r--    1 camredd    camredd          5209 May 17  2018 vc_ui-template-preview.tpl.php

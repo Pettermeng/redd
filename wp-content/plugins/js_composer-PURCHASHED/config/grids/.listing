@@ -1,0 +1,8 @@
+drwxr-xr-x    2 camredd    camredd          4096 Oct 10  2017 .
+drwxr-xr-x   11 camredd    camredd          4096 Oct 10  2017 ..
+-rw-r--r--    1 camredd    camredd         43497 May 17  2018 class-vc-grids-common.php
+-rw-r--r--    1 camredd    camredd           450 May 17  2018 shortcode-vc-basic-grid.php
+-rw-r--r--    1 camredd    camredd           482 May 17  2018 shortcode-vc-masonry-grid.php
+-rw-r--r--    1 camredd    camredd           503 May 17  2018 shortcode-vc-masonry-media-grid.php
+-rw-r--r--    1 camredd    camredd           450 May 17  2018 shortcode-vc-media-grid.php
+-rw-r--r--    1 camredd    camredd          4240 May 17  2018 vc-grids-functions.php

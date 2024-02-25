@@ -1,0 +1,14 @@
+drwxr-xr-x    7 camredd    camredd          4096 Apr 23  2018 .
+drwxr-xr-x    3 camredd    camredd          4096 Apr 23  2018 ..
+-rw-r--r--    1 camredd    camredd            34 May 17  2018 .gitignore
+-rw-r--r--    1 camredd    camredd            42 May 17  2018 CHANGELOG.md
+-rw-r--r--    1 camredd    camredd          3915 May 17  2018 CssSelector.php
+drwxr-xr-x    2 camredd    camredd          4096 Apr 23  2018 Exception
+-rw-r--r--    1 camredd    camredd          1065 May 17  2018 LICENSE
+drwxr-xr-x    2 camredd    camredd          4096 Apr 23  2018 Node
+drwxr-xr-x    5 camredd    camredd          4096 Apr 23  2018 Parser
+-rw-r--r--    1 camredd    camredd          1390 May 17  2018 README.md
+drwxr-xr-x    5 camredd    camredd          4096 Apr 23  2018 Tests
+drwxr-xr-x    3 camredd    camredd          4096 Apr 23  2018 XPath
+-rw-r--r--    1 camredd    camredd           894 May 17  2018 composer.json
+-rw-r--r--    1 camredd    camredd           831 May 17  2018 phpunit.xml.dist

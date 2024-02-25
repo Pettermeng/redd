@@ -1,0 +1,11 @@
+drwxr-xr-x    3 camredd    camredd          4096 Oct 10  2017 .
+drwxr-xr-x   43 camredd    camredd          4096 Apr 23  2018 ..
+drwxr-xr-x    2 camredd    camredd          4096 Oct 10  2017 compat
+-rw-r--r--    1 camredd    camredd          3207 May 17  2018 donate.png
+-rw-r--r--    1 camredd    camredd         26251 May 17  2018 duplicate-post-admin.php
+-rw-r--r--    1 camredd    camredd          5055 May 17  2018 duplicate-post-common.php
+-rw-r--r--    1 camredd    camredd         18372 May 17  2018 duplicate-post-options.php
+-rw-r--r--    1 camredd    camredd          1327 May 17  2018 duplicate-post.css
+-rw-r--r--    1 camredd    camredd          1919 May 17  2018 duplicate-post.php
+-rw-r--r--    1 camredd    camredd         18431 May 17  2018 gpl-2.0.txt
+-rw-r--r--    1 camredd    camredd         12017 May 17  2018 readme.txt

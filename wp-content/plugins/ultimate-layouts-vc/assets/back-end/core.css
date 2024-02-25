@@ -1,0 +1,12 @@
+.ul-metabox-wrapper{display:block; width:100%;}
+.ul-metabox-wrapper:after{content:''; display:table; clear:both;}
+.ul-metabox-wrapper > *{float:left;}
+.ul-metabox-wrapper .elm-label{width:180px;}
+.ul-metabox-wrapper .elm-fields{width:calc(100% - 182px); width:-webkit-calc(100% - 182px); width:-moz-calc(100% - 182px); width:-ms-calc(100% - 182px);}
+.ul-metabox-wrapper .elm-fields textarea{width:100%; display:block;}
+.ul-metabox-wrapper .elm-descriptions {color:#999999; font-style:italic; padding-top:6px;}
+.ul-metabox-wrapper label {font-weight:bold;}
+
+/*plugin settings*/
+body.post-type-ultimate_layouts_bt #post-body-content{ display:none;}
+/*plugin settings*/

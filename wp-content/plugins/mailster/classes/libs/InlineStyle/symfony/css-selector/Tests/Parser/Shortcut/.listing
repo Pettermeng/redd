@@ -1,0 +1,6 @@
+drwxr-xr-x    2 camredd    camredd          4096 Apr 23  2018 .
+drwxr-xr-x    4 camredd    camredd          4096 Apr 23  2018 ..
+-rw-r--r--    1 camredd    camredd          1419 May 17  2018 ClassParserTest.php
+-rw-r--r--    1 camredd    camredd          1240 May 17  2018 ElementParserTest.php
+-rw-r--r--    1 camredd    camredd          1010 May 17  2018 EmptyStringParserTest.php
+-rw-r--r--    1 camredd    camredd          1381 May 17  2018 HashParserTest.php

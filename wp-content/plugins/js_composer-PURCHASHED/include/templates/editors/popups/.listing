@@ -1,0 +1,14 @@
+drwxr-xr-x    3 camredd    camredd          4096 Oct 10  2017 .
+drwxr-xr-x    5 camredd    camredd          4096 Oct 10  2017 ..
+-rw-r--r--    1 camredd    camredd           927 May 17  2018 modal_edit_element.tpl.php
+-rw-r--r--    1 camredd    camredd           958 May 17  2018 panel_multi_shortcode_edit_form.tpl.php
+-rw-r--r--    1 camredd    camredd          1046 May 17  2018 panel_shortcode_edit_form.tpl.php
+drwxr-xr-x    2 camredd    camredd          4096 Oct 10  2017 shared-templates
+-rw-r--r--    1 camredd    camredd           845 May 17  2018 vc_ui-footer.tpl.php
+-rw-r--r--    1 camredd    camredd          1839 May 17  2018 vc_ui-header.tpl.php
+-rw-r--r--    1 camredd    camredd          2325 May 17  2018 vc_ui-panel-add-element.tpl.php
+-rw-r--r--    1 camredd    camredd          1632 May 17  2018 vc_ui-panel-edit-element.tpl.php
+-rw-r--r--    1 camredd    camredd          2358 May 17  2018 vc_ui-panel-post-settings.tpl.php
+-rw-r--r--    1 camredd    camredd          2064 May 17  2018 vc_ui-panel-preset.tpl.php
+-rw-r--r--    1 camredd    camredd          2298 May 17  2018 vc_ui-panel-row-layout.tpl.php
+-rw-r--r--    1 camredd    camredd          1959 May 17  2018 vc_ui-panel-templates.tpl.php

@@ -1,0 +1,9 @@
+drwxr-xr-x    2 camredd    camredd          4096 Apr 23  2018 .
+drwxr-xr-x    5 camredd    camredd          4096 Apr 23  2018 ..
+-rw-r--r--    1 camredd    camredd          1116 May 17  2018 CommentHandler.php
+-rw-r--r--    1 camredd    camredd           865 May 17  2018 HandlerInterface.php
+-rw-r--r--    1 camredd    camredd          1774 May 17  2018 HashHandler.php
+-rw-r--r--    1 camredd    camredd          1792 May 17  2018 IdentifierHandler.php
+-rw-r--r--    1 camredd    camredd          1475 May 17  2018 NumberHandler.php
+-rw-r--r--    1 camredd    camredd          2611 May 17  2018 StringHandler.php
+-rw-r--r--    1 camredd    camredd          1168 May 17  2018 WhitespaceHandler.php

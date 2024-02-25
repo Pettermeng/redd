@@ -1,0 +1,15 @@
+drwxr-xr-x    2 camredd    camredd          4096 Oct 10  2017 .
+drwxr-xr-x    4 camredd    camredd          4096 Oct 10  2017 ..
+-rw-r--r--    1 camredd    camredd           473 May 17  2018 create-slider.php
+-rw-r--r--    1 camredd    camredd           412 May 17  2018 edit-slider.php
+-rw-r--r--    1 camredd    camredd             0 May 17  2018 index.php
+-rw-r--r--    1 camredd    camredd        108215 May 17  2018 slide-general-settings.php
+-rw-r--r--    1 camredd    camredd         14080 May 17  2018 slide-selector.php
+-rw-r--r--    1 camredd    camredd        262484 May 17  2018 slide-stage.php
+-rw-r--r--    1 camredd    camredd        398243 May 17  2018 slider-main-options.php
+-rw-r--r--    1 camredd    camredd         10858 May 17  2018 sliders-list.php
+-rw-r--r--    1 camredd    camredd          7703 May 17  2018 slides-list.php
+-rw-r--r--    1 camredd    camredd          3144 May 17  2018 slides.php
+-rw-r--r--    1 camredd    camredd         11958 May 17  2018 template-selector.php
+-rw-r--r--    1 camredd    camredd         14757 May 17  2018 template-slider-selector.php
+-rw-r--r--    1 camredd    camredd          3854 May 17  2018 wpml-selector.php

@@ -1,0 +1,14 @@
+drwxr-xr-x    2 camredd    camredd          4096 Mar 14  2018 .
+drwxr-xr-x    6 camredd    camredd          4096 Mar 14  2018 ..
+-rw-r--r--    1 camredd    camredd          3371 May 17  2018 admin-bar-items.php
+-rw-r--r--    1 camredd    camredd           816 May 17  2018 admin-footer.php
+-rw-r--r--    1 camredd    camredd          4691 May 17  2018 dashboard.php
+-rw-r--r--    1 camredd    camredd          1460 May 17  2018 export.php
+-rw-r--r--    1 camredd    camredd          1169 May 17  2018 footer.php
+-rw-r--r--    1 camredd    camredd          4463 May 17  2018 helping_hands.php
+-rw-r--r--    1 camredd    camredd          2225 May 17  2018 import.php
+-rw-r--r--    1 camredd    camredd          2026 May 17  2018 messages.php
+-rw-r--r--    1 camredd    camredd          1417 May 17  2018 meta-boxes.php
+-rw-r--r--    1 camredd    camredd          8747 May 17  2018 remove-admin-bar.php
+-rw-r--r--    1 camredd    camredd          2549 May 17  2018 remove-admin-notices.php
+-rw-r--r--    1 camredd    camredd          3694 May 17  2018 widget.php
