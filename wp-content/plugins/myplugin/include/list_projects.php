@@ -73,7 +73,7 @@
 		$projects_list = $wpdb->get_results("
 		SELECT 
 
-		rp.id, rp.project_name, rp.project_description, rp.project_submit_date, rp.date_start,
+		rp.id, rp.project_name, rp.area, rp.project_description, rp.project_submit_date, rp.date_start,
 		rp.date_end, rp.reviewer_id, rps.status_en,
 		rpt.project_type_en
 		
@@ -89,9 +89,10 @@
 		$projects_list = $wpdb->get_results("
 		SELECT 
 
-		rp.id, rp.project_name, rp.project_description, rp.project_submit_date, rp.date_start,
+		rp.id, rp.project_name,rp.area, rp.project_description, rp.project_submit_date, rp.date_start,
 		rp.date_end, rp.reviewer_id, rps.status_en,
 		rpt.project_type_en
+		
 		
 		FROM $table_project rp
 		LEFT JOIN $table_project_type rpt
@@ -183,6 +184,7 @@
 							<th>N°</th>
 							<th>Type</th>
 							<th style="width: 200px;">Name</th>
+							<th style="width: 150px;">Area (Unit in ha)</th>
 
 							<th style="width: 350px;">Description</th>
 							<th>Submit Date</th>
@@ -207,6 +209,7 @@
 								echo wp_trim_words( $row->project_name, 20, '[...]' );
 							?>
 						</td>
+						<td><?php echo $row->area;?></td>
 						<td>
 							<?php 
 								echo wp_trim_words( $row->project_description, 20, '[...]' );

@@ -40,7 +40,10 @@
 
 	//$hStep = 2; //need remove
 
-	if(isset($_POST['organization_name'])){
+	if(isset($_POST['organization_name'])){ 
+
+		//New implement field
+		$_SESSION["area"] = $_POST['area'];
 
 		$_SESSION["organization_name"] = $_POST['organization_name'];
 		$_SESSION["id_cate_org"] = $_POST['id_cate_org'];
@@ -69,10 +72,11 @@
 		$_SESSION["cell_number_partner"] = $_POST['cell_number_partner'];
 		$_SESSION["fax_number_partner"] = $_POST['fax_number_partner'];
 
-
 	}
 
 	if($_POST['id_project']){ //update 
+
+		$area = $_POST['area'];
 
 		$project_name = $_POST['project_name'];
 		$date_submission = $_POST['date_submission'];
@@ -128,6 +132,7 @@
 		$data_project = array(
 					'id_project_type' => $type_project, 
 					'project_name' => $project_name,
+					'area' => $area,
 					'project_submit_date' => date("Y-m-d", strtotime(str_replace('/', '-', $date_submission ))),
 					'project_description' => $project_description,
 					'date_start' => date("Y-m-d", strtotime(str_replace('/', '-', $project_start ))),
@@ -542,9 +547,11 @@
 
 
 
-	}else if(isset($_POST['project_name'])){
+	}
+	else if(isset($_POST['project_name'])){
 
 		$project_name = $_POST['project_name'];
+		$area = $_POST['area'];
 		$date_submission = $_POST['date_submission'];
 		$project_description = $_POST['project_description'];
 		$type_project = $_POST['type_project'];
@@ -589,6 +596,7 @@
 		$data_project = array(
 					'id_project_type' => $type_project, 
 					'project_name' => $project_name,
+					'area' => (int)$area,
 					'project_submit_date' => date("Y-m-d", strtotime( str_replace('/', '-', $date_submission ))),
 					'project_description' => $project_description,
 					'date_start' => date("Y-m-d", strtotime( str_replace('/', '-', $project_start ))),
@@ -611,7 +619,7 @@
 					'created_by' => get_current_user_id(),
 					'updated_by' => get_current_user_id()
 				);
-		$format_project = array('%d','%s','%s','%s','%s','%s','%s','%d','%s','%s','%s','%d','%d','%d','%s','%s','%d','%d');
+		$format_project = array('%d','%s','%d','%s','%s','%s','%s','%s','%d','%s','%s','%s','%d','%d','%d','%s','%s','%d','%d');
 		$wpdb->insert($table_project,$data_project,$format_project);
 		$id_project = $wpdb->insert_id;
 		if ($id_project) {

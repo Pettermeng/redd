@@ -45,10 +45,9 @@ get_header();
 					</div>
 					<!-- block process -->
 				</div>
-				<div class="row stepOne"><?php _e("[:km]ប្រតិបត្តិការនិងដៃគូគម្រោងរេដបូក[:en]Project Proponent and Partners[:]");?></div>
 
-				
-				
+
+				<div class="row stepOne"><?php _e("[:km]ប្រតិបត្តិការនិងដៃគូគម្រោងរេដបូក[:en]Project Proponent and Partners[:]");?></div>
 				<!-- Contianer of form  -->
 				<form class='row no-padding' action="<?php echo $reUrl;?>" method="post" enctype="multipart/form-data" id="blockStep1">
 					<!-- project proponent  -->
@@ -260,17 +259,11 @@ get_header();
 						</div>
 					<!-- project Partner  -->
 				</form>	
-				
 				<!-- End Contianer of form  -->
 
-				
-				
 			</div>
 		</div>
 	<?php 
-	
-
 }
-
-	
 get_footer();
+?>

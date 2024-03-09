@@ -74,6 +74,14 @@
     <div class="row">
         <div class="col-12">
             <div class="form-group">
+                <div class="labelinput">Area*</div>
+                <input type="number" value="<?php echo $projectInfo->area;?>" style="height: 40px;" class="form-control require " name="area" id="area" placeholder="Fill information here...">
+            </div>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-12">
+            <div class="form-group">
                 <label for="exampleFormControlInput1" class="labelinput">Brief Project Description - Intended Project Activities*</label>
                 <textarea class="form-control require" id="project_description" rows="3" placeholder="Fill information here..." name="project_description"><?php echo $projectInfo->project_description;?></textarea>
             </div>

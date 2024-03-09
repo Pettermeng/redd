@@ -1251,9 +1251,9 @@ margin-bottom: 8px;
 
 /* style for Project Listing  */
 
-.body-container .content-container-listing{
+/* .body-container .content-container-listing{
   max-width: 869px;
-}
+} */
 
 .body-container .content-container-listing .drawline{
   width: 100%;
@@ -1353,8 +1353,9 @@ margin-bottom: 8px;
   font-weight: normal;
   font-size: 15px;
   line-height: 25px;
-  text-decoration-line: underline;
-  color: #077907;
+  /* color: #077907; */
+  color: black;
+  text-decoration: none;
   border: 0px;
   text-transform: capitalize;
 }
@@ -2257,29 +2258,6 @@ ul.fileList li a.removeFile{
   margin-top: 0px;
 }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 .body-container .content-container-project_detail .no-padding{
   padding:0px;
 }
@@ -2287,81 +2265,104 @@ ul.fileList li a.removeFile{
   padding-right:0px;
 }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+/* Registration Step V2 */
+.processStepByLevelHalf {
+  border-top: 2px solid #077907;
+  width: 50%;
+  margin-top: -2px;
+}
+.processStepByLevelFull {
+  border-top: 2px solid #077907;
+  width: 100%;
+  margin-top: -2px;
+}
+
+
+/* Block Project Listing V2 */
+.block-list-project-v2 .frame-border {
+  padding: 1rem;
+  border: 2px solid #077907;
+}
+.block-list-project-v2 .nav.nav-tabs {
+  background-color: #077907a1;
+}
+.block-list-project-v2 .nav.nav-tabs li {
+  margin-left: 0px !important;
+}
+.block-list-project-v2 .nav-link.active {
+  background-color: #077907 !important;
+}
+.block-list-project-v2 .nav-link {
+  cursor: pointer;
+  color: white !important;
+  border-color: transparent !important;
+  border-radius: 0px !important;
+}
+
+/* Customize datatable style */
+.block-list-project-v2 .dt-layout-row {
+  margin-bottom: 1rem;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.block-list-project-v2 .dt-layout-row.dt-layout-table {
+  display: block;
+}
+.block-list-project-v2 .dt-paging button {
+  border: none;
+  padding: 5px;
+  margin-left: 5px;
+  width: 35px;
+}
+.block-list-project-v2 #dt-search-0 {
+  border-radius: 5px;
+  border: 1px solid;
+  padding: 4px;
+}
+
+.block-list-project-v2 table th,
+.block-list-project-v2 table td {
+  text-align: left !important;
+  border: 1px solid #e1e1e1 !important;
+}
+.block-list-project-v2 thead {
+  font-size: 14px !important;
+  background-color: #e1e1e1;
+}
+.block-list-project-v2 tbody a,
+.block-list-project-v2 tbody {
+  text-decoration: none !important;
+  font-size: 13.5px !important;
+  color: black !important;
+} 
+
+.project-listing .block-total-data .content {
+  padding: 3rem 5rem;
+  display: flex;
+  gap: 5rem;
+  flex-direction: column;
+  background-color: #83bc833d;
+}
+.project-listing .block-total-data .top h1 {
+  font-size: 3.5rem;
+  font-weight: bold;
+  color: #077907;
+}
+.project-listing .block-total-data .center h2 {
+  font-size: 2.5rem;
+  font-weight: bold;
+  color: #83BC83;
+}
+.project-listing .block-total-data .bottom h2 {
+  font-size: 2.5rem;
+  font-weight: bold;
+  color: #077907;
+}
+.project-listing .block-total-data .top p,
+.project-listing .block-total-data .bottom p {
+  font-weight: bold;
+}
+.project-listing .block-total-data .bottom {
+  gap: 0.5rem;
+}

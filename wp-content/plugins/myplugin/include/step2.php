@@ -67,6 +67,12 @@
                 </div>
             </div>
         </div>
+        <div class="col-12">
+            <div class="form-group">
+                <div class="labelinput">Area*</div>
+                <input type="number" style="height: 40px;" class="form-control require " name="area" id="area" placeholder="Fill information here...">
+            </div>
+        </div>
     </div>
     <div class="row">
         <div class="col-12">
@@ -335,7 +341,8 @@ by the RGC. (optional)</label>
                     <div class="display-name-safeguard-file">
                         <ul class="fileList">
                             <?php 
-                                $docType = $wpdb->get_row( $wpdb->prepare( "SELECT * FROM $table_list_doc_type WHERE type_code = 'sain'" ) );
+                                // $docType = $wpdb->get_row( $wpdb->prepare( "SELECT * FROM $table_list_doc_type WHERE type_code = 'sain'" ) );
+                                $docType = $wpdb->get_results( "SELECT * FROM $table_list_doc_type WHERE type_code = 'sain'"  );
                                 $file_project_description = $wpdb->get_results( "SELECT * FROM $table_lists_documents where id_project = $id_project and id_list_doc_type = $docType->id order by title asc", OBJECT );
                                 foreach ($file_project_description as $key => $data) {
                                     
@@ -392,7 +399,8 @@ by the RGC. (optional)</label>
                     <div class="display-name-benefit-file">
                         <ul class="fileList">
                             <?php 
-                                $docType = $wpdb->get_row( $wpdb->prepare( "SELECT * FROM $table_list_doc_type WHERE type_code = 'bsi'" ) );
+                                // $docType = $wpdb->get_row( $wpdb->prepare( "SELECT * FROM $table_list_doc_type WHERE type_code = 'bsi'" ) );
+                                $docType = $wpdb->get_results( "SELECT * FROM $table_list_doc_type WHERE type_code = 'bsi'" );
                                 $file_project_description = $wpdb->get_results( "SELECT * FROM $table_lists_documents where id_project = $id_project and id_list_doc_type = $docType->id order by title asc", OBJECT );
                                 foreach ($file_project_description as $key => $data) {
                                     

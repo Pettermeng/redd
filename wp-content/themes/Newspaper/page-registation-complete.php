@@ -547,6 +547,7 @@ if(isset($_POST['project-name'])){
 			<div class="header-margin-top"></div>
 			<!-- block process -->
 			<div class="processStep">
+				<div class="processStepByLevelFull">
 					<div class="step1 active">
 						<div class="point"></div>
 						<div class="titleStep"><?php _e("[:km]ប្រតិបត្តិការនិង<br>ដៃគូគម្រោងរេដបូក[:en]Project Proponent<br>and Partners[:]");?></div>
@@ -559,6 +560,7 @@ if(isset($_POST['project-name'])){
 						<div class="point"></div>
 						<div class="titleStep"><?php _e("[:km]ការចុះបញ្ជីគម្រោង<br>រេដបូកបានបញ្ចប់[:en]Registration <br> Completed[:]");?></div>
 					</div>
+				</div>
 			</div>
 
 			<!-- block process -->

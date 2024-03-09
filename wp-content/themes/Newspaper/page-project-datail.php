@@ -74,18 +74,20 @@ if (have_posts()) { ?>
 			<div class="container no-padding">
 				<!-- block process -->
 				<div class="processStep">
-					<div class="step1 active">
-						<div class="point"></div>
-						<div class="titleStep"><?php _e("[:km]ប្រតិបត្តិការនិង<br>ដៃគូគម្រោងរេដបូក[:en]Project Proponent<br>and Partners[:]"); ?></div>
-					</div>
-					<div class="step2 active">
-						<div class="point"></div>
-						<div class="titleStep project-detaile-desktop"><?php _e("[:km]គម្រោងលម្អិត[:en]Project Details[:]"); ?></div>
-						<div class="titleStep project-detaile-mobile"><?php _e("[:km]គម្រោង<br>លម្អិត[:en]Project<br>Details[:]"); ?></div>
-					</div>
-					<div class="step3">
-						<div class="point"></div>
-						<div class="titleStep"><?php _e("[:km]ការចុះបញ្ជីគម្រោង<br>រេដបូកបានបញ្ចប់[:en]Registration <br> Completed[:]"); ?></div>
+					<div class="processStepByLevelHalf">
+						<div class="step1 active">
+							<div class="point"></div>
+							<div class="titleStep"><?php _e("[:km]ប្រតិបត្តិការនិង<br>ដៃគូគម្រោងរេដបូក[:en]Project Proponent<br>and Partners[:]"); ?></div>
+						</div>
+						<div class="step2 active currentLevel2">
+							<div class="point"></div>
+							<div class="titleStep project-detaile-desktop"><?php _e("[:km]គម្រោងលម្អិត[:en]Project Details[:]"); ?></div>
+							<div class="titleStep project-detaile-mobile"><?php _e("[:km]គម្រោង<br>លម្អិត[:en]Project<br>Details[:]"); ?></div>
+						</div>
+						<div class="step3">
+							<div class="point"></div>
+							<div class="titleStep"><?php _e("[:km]ការចុះបញ្ជីគម្រោង<br>រេដបូកបានបញ្ចប់[:en]Registration <br> Completed[:]"); ?></div>
+						</div>
 					</div>
 				</div>
 
@@ -441,3 +443,5 @@ if (have_posts()) { ?>
 	</div>
 <?php }
 get_footer();
+
+?>

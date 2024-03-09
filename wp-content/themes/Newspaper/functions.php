@@ -177,10 +177,17 @@ function asset_style() {
     wp_enqueue_style( 'bk-bootrap-datepicker-css', $theme_uri . '/css/bootstrap-datepicker.min.css', array(), $version );
     wp_enqueue_style( 'bk-cssv2', $theme_uri . '/css/style_page_2.css', array(), $version );
 
+    // Datatable CSS
+    wp_enqueue_style( 'datatable', 'https://cdn.datatables.net/2.0.0/css/dataTables.bootstrap4.css', array(),'2.0.0' );
+
     wp_enqueue_script( 'jquery-highcharts', $theme_uri . '/js/highcharts.js' );
     wp_enqueue_script( 'jquery-modules_data', $theme_uri . '/js/modules/data.js' );
     wp_enqueue_script( 'jquery-modules_exporting', $theme_uri . '/js/modules/exporting.js' );
     wp_enqueue_script( 'jquery-modules_accessibility', $theme_uri . '/js/modules/accessibility.js' );
+
+    // wp_enqueue_script( 'jquery-1.7.1', 'https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js' );
+    // Datatable JS
+    // wp_enqueue_script( 'datatable', 'https://cdn.datatables.net/2.0.0/js/dataTables.min.js' );
 
     wp_enqueue_script( 'jquer-custom', $theme_uri . '/js/bk-custom.js' );
 }
@@ -215,3 +222,39 @@ add_action( 'admin_menu', 'wpdocs_register_my_custom_menu_page' );
 
 //Detect deprecated error messages
 add_filter('deprecated_constructor_trigger_error', '__return_false');
+
+//Sum Emission Reductions
+function sum_emission_by_year($type, $status, $start, $end) {
+
+    global $wpdb;
+    $result = 0;
+    if($type == 'single' && $status == 'issued') {
+        $result = $wpdb->get_row("SELECT SUM(issued) as total_issued FROM `redd_project_annual_emission_reductions` WHERE issuse_date BETWEEN '".$start."-01-01' AND '".$end."-12-31'");
+    }
+    elseif($type == 'single' && $status == 'verifield') {
+        $result = $wpdb->get_results("SELECT SUM(verified) as total_verifield FROM `redd_project_annual_emission_reductions` WHERE issuse_date BETWEEN '".$start."-01-01' AND '".$end."-12-31'");
+    }
+    elseif($type == 'between' && $status == "verifield") {
+        $result = $wpdb->get_results("SELECT SUM(verified) as total_data_verifield_btw FROM `redd_project_annual_emission_reductions` WHERE issuse_date BETWEEN '".$start."-01-01' AND '".$end."-12-31'");
+    }
+
+    return $result;
+
+}
+
+function count_project_by_status($status) {
+    global $wpdb;
+    $result = 0;
+
+    if($status == 'approval') {
+        $result = $wpdb->get_row("SELECT COUNT(id) as approval FROM `redd_project` WHERE date_approval != '0000-00-00 00:00:00' AND id != 0");
+    }
+    elseif($status == 'pipline') {
+        $result = $wpdb->get_row("SELECT COUNT(id) as pipline FROM `redd_project` WHERE date_approval = '0000-00-00 00:00:00' AND id != 0");
+    }
+    else {
+        $result = $wpdb->get_row("SELECT SUM(area) as total_area FROM `redd_project` WHERE date_approval != '0000-00-00 00:00:00'");
+    }
+
+    return $result;
+}

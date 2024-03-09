@@ -25,10 +25,12 @@ get_header();
 	foreach ($proALls as $key=>$row) {
 
 		
-		if($row->date_approval != "0000-00-00 00:00:00"){
+		if($row->date_approval != "0000-00-00 00:00:00" && $row->id != 0){
 			$proComplete++;
 		}else{
-			$proPip++;
+			if($row->id != 0) {
+				$proPip++;
+			}
 		}
 
 		$records = $wpdb->get_results("

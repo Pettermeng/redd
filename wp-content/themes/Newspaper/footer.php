@@ -640,27 +640,24 @@ if($subRecord){
 <?php }?>
 <!-- end map block  -->
 
-<script>
-    jQuery(document).ready(function ($) {
-			var countCat = 0;
-			// custome add more project partner button
-			$('#add_more_partner').click(function (e) {
-                countCat++;
-                var content = '<div class="row col-lg-12 contentProponentpartner" id = "category_'+countCat+'"><div class="removeIconFile" id = "'+countCat+'"><i class="fa fa-times txt-color-red eventDelete" aria-hidden="true"></i></div><div class="col-lg-12 organization-name no-padding-right"><div class="form-group"> <label for="partner"><?php _e("[:km]ឈ្មោះស្ថាប័ន/អង្គការ(ដៃគូគម្រោងរេដបូក)[:en]Name of Organization(Project Partner)[:]");?>*</label> <input class="form-control require organization-name" type="text" id="name-org-partner'+countCat+'" name="name-org-partner[]" placeholder="<?php _e("[:km]បំពេញព័ត៌មាននៅទីនេះ...[:en]Fill information here...[:]");?>"></div></div><div class=" col-lg-12 high-top"></div><div class="col-lg-6 function-right no-padding-right"><div class="form-group"> <label for="function"><?php _e("[:km]មុខងារ/ការទទួលខុសត្រូវ[:en]Fuction/Responsibility[:]");?>*</label><textarea class="form-control require text-area-style" id="function-partner'+countCat+'" name="function-partner[]" placeholder="<?php _e("[:km]បំពេញព័ត៌មាននៅទីនេះ...[:en]Fill information here...[:]");?>"></textarea></div></div><div class="col-lg-6 no-padding-right"><div class="form-group"> <label for="address"><?php _e("[:km]អាស័យដ្ឋាន[:en]Address[:]");?>*</label><textarea class="form-control require text-area-style" id="address-partner'+countCat+'" name="address-partner[]" placeholder="<?php _e("[:km]បំពេញព័ត៌មាននៅទីនេះ...[:en]Fill information here...[:]");?>"></textarea></div></div><div class=" col-lg-12 high-top"></div><div class="col-lg-6 postal-right no-padding-right"><div class="form-group"> <label for="postal"><?php _e("[:km]អាស័យដ្ឋានប្រៃសណីយ (ប្រសិនបើខុសពីអាស័យដ្ឋាន)[:en]Postal Address (if different from Address)[:]");?></label><textarea class="form-control text-area-style" id="postal-partner'+countCat+'" name="postal-partner[]" placeholder="<?php _e("[:km]បំពេញព័ត៌មាននៅទីនេះ...[:en]Fill information here...[:]");?>"></textarea></div></div><div class="col-lg-6 no-padding-right"><div class="form-group"> <label for="contact"><?php _e("[:km]ជនបង្គោលទំនាក់ទំនង[:en]Contact Person(s)[:]");?>*</label><textarea class="form-control require text-area-style" id="contact-partner'+countCat+'" name="contact-partner[]" placeholder="<?php _e("[:km]បំពេញព័ត៌មាននៅទីនេះ...[:en]Fill information here...[:]");?>"></textarea></div></div><div class=" col-lg-12 high-top"></div><div class="col-lg-6 email-right no-padding-right"><div class="form-group"> <label for="email"><?php _e("[:km]អ៊ីមេល[:en]Email Address[:]");?>*</label> <input class="form-control require" type="text" id="email-partner'+countCat+'" name="email-partner[]" placeholder="<?php _e("[:km]បំពេញព័ត៌មាននៅទីនេះ...[:en]Fill information here...[:]");?>"></div></div><div class="col-lg-6 no-padding-right"><div class="form-group"> <label for="office-phone"><?php _e("[:km]ទូរស័ព្ទ [:en]Telephone Numbers[:]");?>*</label> <input class="form-control phone_number require" type="text" id="office-phone-partner'+countCat+'" name="office-phone-partner[]" placeholder="<?php _e("[:km]លេខទូរស័ព្ទការិយាល័យ[:en]Office number[:]");?>"><br> <input class="form-control phone_number" type="text" id="cell-phone-partner'+countCat+'" name="cell-phone-partner[]" placeholder="<?php _e("[:km]លេខទូរស័ព្ទ[:en]Cell number[:]");?>"></div></div><div class="col-lg-6 fix-right no-padding-right"><div class="form-group"> <label for="fax-partner"><?php _e("[:km]លេខទូរសារ[:en]Fax Number[:]");?></label> <input class="form-control phone_number" type="text" id="fax-partner'+countCat+'" name="fax-partner[]" placeholder="<?php _e("[:km]បំពេញព័ត៌មាននៅទីនេះ...[:en]Fill information here...[:]");?>"></div></div><div class="col-lg-12 border-style"></div></div>';
-                $(".mainPartner").append(content);
-            });
+    <script>
+        jQuery(document).ready(function ($) {
+                var countCat = 0;
+                // custome add more project partner button
+                $('#add_more_partner').click(function (e) {
+                    countCat++;
+                    var content = '<div class="row col-lg-12 contentProponentpartner" id = "category_'+countCat+'"><div class="removeIconFile" id = "'+countCat+'"><i class="fa fa-times txt-color-red eventDelete" aria-hidden="true"></i></div><div class="col-lg-12 organization-name no-padding-right"><div class="form-group"> <label for="partner"><?php _e("[:km]ឈ្មោះស្ថាប័ន/អង្គការ(ដៃគូគម្រោងរេដបូក)[:en]Name of Organization(Project Partner)[:]");?>*</label> <input class="form-control require organization-name" type="text" id="name-org-partner'+countCat+'" name="name-org-partner[]" placeholder="<?php _e("[:km]បំពេញព័ត៌មាននៅទីនេះ...[:en]Fill information here...[:]");?>"></div></div><div class=" col-lg-12 high-top"></div><div class="col-lg-6 function-right no-padding-right"><div class="form-group"> <label for="function"><?php _e("[:km]មុខងារ/ការទទួលខុសត្រូវ[:en]Fuction/Responsibility[:]");?>*</label><textarea class="form-control require text-area-style" id="function-partner'+countCat+'" name="function-partner[]" placeholder="<?php _e("[:km]បំពេញព័ត៌មាននៅទីនេះ...[:en]Fill information here...[:]");?>"></textarea></div></div><div class="col-lg-6 no-padding-right"><div class="form-group"> <label for="address"><?php _e("[:km]អាស័យដ្ឋាន[:en]Address[:]");?>*</label><textarea class="form-control require text-area-style" id="address-partner'+countCat+'" name="address-partner[]" placeholder="<?php _e("[:km]បំពេញព័ត៌មាននៅទីនេះ...[:en]Fill information here...[:]");?>"></textarea></div></div><div class=" col-lg-12 high-top"></div><div class="col-lg-6 postal-right no-padding-right"><div class="form-group"> <label for="postal"><?php _e("[:km]អាស័យដ្ឋានប្រៃសណីយ (ប្រសិនបើខុសពីអាស័យដ្ឋាន)[:en]Postal Address (if different from Address)[:]");?></label><textarea class="form-control text-area-style" id="postal-partner'+countCat+'" name="postal-partner[]" placeholder="<?php _e("[:km]បំពេញព័ត៌មាននៅទីនេះ...[:en]Fill information here...[:]");?>"></textarea></div></div><div class="col-lg-6 no-padding-right"><div class="form-group"> <label for="contact"><?php _e("[:km]ជនបង្គោលទំនាក់ទំនង[:en]Contact Person(s)[:]");?>*</label><textarea class="form-control require text-area-style" id="contact-partner'+countCat+'" name="contact-partner[]" placeholder="<?php _e("[:km]បំពេញព័ត៌មាននៅទីនេះ...[:en]Fill information here...[:]");?>"></textarea></div></div><div class=" col-lg-12 high-top"></div><div class="col-lg-6 email-right no-padding-right"><div class="form-group"> <label for="email"><?php _e("[:km]អ៊ីមេល[:en]Email Address[:]");?>*</label> <input class="form-control require" type="text" id="email-partner'+countCat+'" name="email-partner[]" placeholder="<?php _e("[:km]បំពេញព័ត៌មាននៅទីនេះ...[:en]Fill information here...[:]");?>"></div></div><div class="col-lg-6 no-padding-right"><div class="form-group"> <label for="office-phone"><?php _e("[:km]ទូរស័ព្ទ [:en]Telephone Numbers[:]");?>*</label> <input class="form-control phone_number require" type="text" id="office-phone-partner'+countCat+'" name="office-phone-partner[]" placeholder="<?php _e("[:km]លេខទូរស័ព្ទការិយាល័យ[:en]Office number[:]");?>"><br> <input class="form-control phone_number" type="text" id="cell-phone-partner'+countCat+'" name="cell-phone-partner[]" placeholder="<?php _e("[:km]លេខទូរស័ព្ទ[:en]Cell number[:]");?>"></div></div><div class="col-lg-6 fix-right no-padding-right"><div class="form-group"> <label for="fax-partner"><?php _e("[:km]លេខទូរសារ[:en]Fax Number[:]");?></label> <input class="form-control phone_number" type="text" id="fax-partner'+countCat+'" name="fax-partner[]" placeholder="<?php _e("[:km]បំពេញព័ត៌មាននៅទីនេះ...[:en]Fill information here...[:]");?>"></div></div><div class="col-lg-12 border-style"></div></div>';
+                    $(".mainPartner").append(content);
+                });
 
-            $(document).off('click', '.removeIconFile').on('click', '.removeIconFile', function(){
-                console.log("RemoveIcon is click")
-                var id = $(this).attr('id');
-			    $('#category_'+id).remove();
-		    });
-    });
-</script>
-
-
-
-
+                $(document).off('click', '.removeIconFile').on('click', '.removeIconFile', function(){
+                    console.log("RemoveIcon is click")
+                    var id = $(this).attr('id');
+                    $('#category_'+id).remove();
+                });
+        });
+    </script>
 </body>
 
 </html>
+
