@@ -36,67 +36,75 @@ get_header();
 							<?php endif; ?>
 					</div>
 
-					<!-- Block total data -->
-					<div class="block-total-data py-5">
-						<div class="content">
-							<div class="top d-flex flex-column align-items-center">
-								<p class="fw-bold">Total number of verified Emission Reductions from 2016 to 2019 (unit in tCO2eq)</p>
-								<h1>
-									<?php 
-										$total_verifield_btw = sum_emission_by_year('between', 'verifield', 2016, 2019);
-										$tvb = $total_verifield_btw[0]->total_data_verifield_btw;
-										$data_tvb = $tvb != null ? $tvb : 0;
-										echo number_format($data_tvb);
-									?>
-								</h1>
-							</div>
-							<div class="center d-flex justify-content-between">
-								<div class="item d-flex flex-column align-items-center">
-									<h2>
-										<?php 
-											$issued = sum_emission_by_year('single', 'issued', 2022, 2022);
-											echo number_format($issued->total_issued);
-										?>
-									</h2>
-									<p class="text-center">Annual Emission Reductions Issued in 2022(unit tCO2eq)</p>
-								</div>
-								<div class="item d-flex flex-column align-items-center">
-									<h2>
-										<?php 
-											$verifield = sum_emission_by_year('single', 'verifield', 2022, 2022);
-											echo number_format($verifield[0]->total_verifield);
-										?>
-									</h2>
-									<p class="text-center">Annual Emission Reductions Verified in 2022(unit tCO2eq)</p>
-								</div>
-							</div>
-							<div class="bottom d-flex justify-content-between">
-								<div class="item d-flex flex-column align-items-center">
-									<p class="text-center fw-bold">Total area covered by projects registered (unit in ha)</p>
-									<h2>
-										<?php
-											$project_area_approval = count_project_by_status('approval_area');
-											echo number_format($project_area_approval->total_area);
-										?>
-									</h2>
-								</div>
-								<div class="item d-flex flex-column align-items-center">
-									<p class="text-center fw-bold">Number of projects registered</p>
-									<h2>
-										<?php
-											$approval = count_project_by_status('approval');
-											echo number_format($approval->approval);
-										?>
-									</h2>
-								</div>
-								<div class="item d-flex flex-column align-items-center">
-									<p class="text-center fw-bold">Number of projects in pipeline</p>
-									<h2>
-										<?php
-											$pipline = count_project_by_status('pipline');
-											echo number_format($pipline->pipline);
-										?>
-									</h2>
+					<div class="row">
+						<div class="col-10">
+							<!-- Block total data -->
+							<div class="block-total-data py-5">
+								<div class="content">
+									<div class="top d-flex flex-column align-items-center">
+										<p class="fw-bold">Total number of verified Emission Reductions from 2016 to 2019 (unit in tCO2eq)</p>
+										<h1>
+											<?php 
+												$total_verifield_btw = sum_emission_by_year('between', 'verifield', 2016, 2019);
+												$tvb = $total_verifield_btw[0]->total_data_verifield_btw;
+												$data_tvb = $tvb != null ? $tvb : 0;
+												echo number_format($data_tvb);
+											?>
+										</h1>
+									</div>
+									<div class="center d-flex justify-content-between">
+										<div class="item d-flex flex-column align-items-center">
+											<h2>
+												<?php 
+													$issued = sum_emission_by_year('single', 'issued', 2022, 2022);
+													echo number_format($issued->total_issued);
+												?>
+											</h2>
+											<p class="text-center">Annual Emission Reductions Issued in 2022 <br> (unit tCO2eq)</p>
+										</div>
+										<div class="line-border-1"></div>
+										<div class="item d-flex flex-column align-items-center">
+											<h2>
+												<?php 
+													$verifield = sum_emission_by_year('single', 'verifield', 2022, 2022);
+													echo number_format($verifield[0]->total_verifield);
+												?>
+											</h2>
+											<p class="text-center">Annual Emission Reductions Verified in 2022 <br> (unit tCO2eq)</p>
+										</div>
+									</div>
+									<div class="center-1"></div>
+									<div class="bottom d-flex justify-content-between">
+										<div class="item d-flex flex-column align-items-center min-w-50">
+											<p class="text-center fw-bold">Total area covered by projects <br> registered (unit in ha)</p>
+											<h2>
+												<?php
+													$project_area_approval = count_project_by_status('approval_area');
+													echo number_format($project_area_approval->total_area);
+												?>
+											</h2>
+										</div>
+										<div class="line-border-1"></div>
+										<div class="item d-flex flex-column align-items-center">
+											<p class="text-center fw-bold">Number of projects <br> registered</p>
+											<h2>
+												<?php
+													$approval = count_project_by_status('approval');
+													echo number_format($approval->approval);
+												?>
+											</h2>
+										</div>
+										<div class="line-border-1"></div>
+										<div class="item d-flex flex-column align-items-center">
+											<p class="text-center fw-bold">Number of projects <br> in pipeline</p>
+											<h2>
+												<?php
+													$pipline = count_project_by_status('pipline');
+													echo number_format($pipline->pipline);
+												?>
+											</h2>
+										</div>
+									</div>
 								</div>
 							</div>
 						</div>

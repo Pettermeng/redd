@@ -2340,9 +2340,9 @@ ul.fileList li a.removeFile{
 .project-listing .block-total-data .content {
   padding: 3rem 5rem;
   display: flex;
-  gap: 5rem;
+  gap: 3.5rem;
   flex-direction: column;
-  background-color: #83bc833d;
+  background-color: #c8d5c83d;
 }
 .project-listing .block-total-data .top h1 {
   font-size: 3.5rem;
@@ -2365,4 +2365,16 @@ ul.fileList li a.removeFile{
 }
 .project-listing .block-total-data .bottom {
   gap: 0.5rem;
+}
+
+.project-listing .center p {
+  color: grey;
+}
+
+.project-listing .center-1,
+.project-listing .line-border-1 {
+  border: 1px solid #d3d3d3ab;
+}
+.project-listing .min-w-50 {
+  width: 46.5%;
 }
